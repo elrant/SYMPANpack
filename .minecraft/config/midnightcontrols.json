@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "controlsMode": "CONTROLLER",
+  "controlsMode": "DEFAULT",
   "autoSwitchMode": true,
   "debug": false,
   "hudEnable": true,

@@ -1,0 +1,79 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"front": "painting/wind",
+		"frame": "painting/alban",
+		"back": "painting/back",
+		"particle": "painting/back"
+	},
+	"elements": [
+		{
+			"name": "frame",
+			"from": [15, 0, 7.5],
+			"to": [16, 16, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 16], "texture": "#frame"},
+				"east": {"uv": [0, 0, 1, 16], "texture": "#back"},
+				"south": {"uv": [15, 0, 16, 16], "texture": "#back"},
+				"up": {"uv": [0, 0, 1, 1], "rotation": 180, "texture": "#back"},
+				"down": {"uv": [0, 15, 1, 16], "rotation": 180, "texture": "#back"}
+			}
+		},
+		{
+			"name": "frame",
+			"from": [0, 0, 7.5],
+			"to": [1, 16, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [15, 0, 16, 16], "texture": "#frame"},
+				"south": {"uv": [0, 0, 1, 16], "texture": "#back"},
+				"west": {"uv": [15, 0, 16, 16], "texture": "#back"},
+				"up": {"uv": [15, 0, 16, 1], "rotation": 180, "texture": "#back"},
+				"down": {"uv": [15, 15, 16, 16], "rotation": 180, "texture": "#back"}
+			}
+		},
+		{
+			"name": "frame",
+			"from": [0, 15, 7.5],
+			"to": [16, 16, 8.5],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 1], "rotation": 180, "texture": "#frame"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#back"},
+				"south": {"uv": [0, 0, 16, 1], "texture": "#back"},
+				"west": {"uv": [15, 0, 16, 1], "texture": "#back"},
+				"up": {"uv": [0, 0, 16, 1], "rotation": 180, "texture": "#back"}
+			}
+		},
+		{
+			"name": "frame",
+			"from": [0, 0, 7.5],
+			"to": [16, 1, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 15, 16, 16], "rotation": 180, "texture": "#frame"},
+				"east": {"uv": [0, 15, 1, 16], "texture": "#back"},
+				"south": {"uv": [0, 15, 16, 16], "texture": "#back"},
+				"west": {"uv": [15, 15, 16, 16], "texture": "#back"},
+				"down": {"uv": [0, 0, 16, 1], "rotation": 180, "texture": "#back"}
+			}
+		},
+		{
+			"name": "painting",
+			"from": [1, 1, 7.5],
+			"to": [15, 15, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [4.5, 4.5, 11.5, 11.5], "texture": "#front"},
+				"south": {"uv": [1, 1, 15, 15], "texture": "#back"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 135, 0],
+			"scale": [0.625, 0.625, 0.625]
+		}
+	}
+}

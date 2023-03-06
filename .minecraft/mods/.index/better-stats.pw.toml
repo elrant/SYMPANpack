@@ -1,14 +1,14 @@
 name = "Better Statistics Screen"
-filename = "betterstats-2.2.1+1.19.3.jar"
+filename = "betterstats-2.3+1.19.3.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/n6PXGAoM/versions/ytM62cvx/betterstats-2.2.1%2B1.19.3.jar"
+url = "https://cdn.modrinth.com/data/n6PXGAoM/versions/DA4J8QTI/betterstats-2.3%2B1.19.3.jar"
 hash-format = "sha512"
-hash = "29e193282e41633367713620c66dc83fa16de0eebd8c699f40bed7fd95c94694ac59dc870cf299adf30925037aed7c273b293c2c299532137cada6ec7dbd83ef"
+hash = "43b8dd67603f8779b0dff12d4e0dafe0e7bc4ef73c022710e7d7ff1e39a010100122bdb07e8b01c91fb6e17703b4201740d656c17d7375cb63efe4174614247d"
 
 [update]
 [update.modrinth]
 mod-id = "n6PXGAoM"
-version = "ytM62cvx"
+version = "DA4J8QTI"

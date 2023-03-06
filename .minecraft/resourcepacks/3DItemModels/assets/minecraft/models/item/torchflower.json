@@ -1,0 +1,6 @@
+{
+  "parent": "item/templates/flower_cross",
+  "textures": {
+    "cross": "block/torchflower"
+  }
+}

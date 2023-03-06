@@ -1,6 +1,6 @@
 # LambDynamicLights configuration.
 # The dynamic lights mode
-mode = "off"
+mode = "fastest"
 
 # Light sources settings.
 [light_sources]
@@ -11,7 +11,7 @@ mode = "off"
 	# Enable entities light source.
 	entities = true
 	# Enable first-person player light source.
-	self = true
+	self = false
 	# TNT lighting mode. May be off, simple or fancy.
 	tnt = "off"
 	# Creeper lighting mode. May be off, simple or fancy.

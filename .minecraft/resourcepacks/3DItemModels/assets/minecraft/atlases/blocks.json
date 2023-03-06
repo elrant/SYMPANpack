@@ -1,0 +1,19 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "entity",
+            "prefix": "entity/"
+        },
+        {
+            "type": "directory",
+            "source": "painting",
+            "prefix": "painting/"
+        },
+        {
+            "type": "directory",
+            "source": "models/armor",
+            "prefix": "models/armor/"      
+        }     
+    ]
+}

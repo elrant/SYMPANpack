@@ -1,0 +1,6 @@
+{
+  "parent": "item/templates/trapdoor",
+  "textures": {
+    "texture": "block/crimson_trapdoor"
+  }
+}

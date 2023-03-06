@@ -1,0 +1,6 @@
+{
+  "parent": "item/templates/cross",
+  "textures": {
+    "cross": "block/medium_amethyst_bud"
+  }
+}

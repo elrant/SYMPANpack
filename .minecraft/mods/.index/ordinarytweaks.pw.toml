@@ -1,14 +1,14 @@
 name = "SomeOrdinaryTweaks"
-filename = "some-ordinary-tweaks-1.6.2.jar"
+filename = "some-ordinary-tweaks-1.6.3.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/LNeXYJOg/versions/TpmNuRlo/some-ordinary-tweaks-1.6.2.jar"
+url = "https://cdn.modrinth.com/data/LNeXYJOg/versions/LL3C3Z5e/some-ordinary-tweaks-1.6.3.jar"
 hash-format = "sha512"
-hash = "3246671e845dc75610b840eb73d22bde780692a4bccf8ce012d6d48dfd0128c3abccc1c354bd253d821a446eb20c98d7d1ab1190d5954220e6858ab950790ff3"
+hash = "6a520f8030f7989b19b43e19ae0951646b80e3f79fbd2dbb6ed08c2e715c8f5be3a6b40fd253fc30250a310ee0718ecfc1129865be33987b5d567275af5191dd"
 
 [update]
 [update.modrinth]
 mod-id = "LNeXYJOg"
-version = "TpmNuRlo"
+version = "LL3C3Z5e"
