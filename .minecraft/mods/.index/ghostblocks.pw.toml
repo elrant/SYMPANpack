@@ -1,0 +1,14 @@
+name = "Ghostblocks"
+filename = "ghost-1.19.3-1.6.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Wzj3MZzu/versions/35Aw2FPz/ghost-1.19.3-1.6.3.jar"
+hash-format = "sha512"
+hash = "52aa9d887b53d5d981fb50ccb1952677f4de5c5ee6456041b7cc5323c219221f1a059c3e4b6262865ba16e6a7d00509c95e9ba54e5ff31024cd2f874044ad32c"
+
+[update]
+[update.modrinth]
+mod-id = "Wzj3MZzu"
+version = "35Aw2FPz"

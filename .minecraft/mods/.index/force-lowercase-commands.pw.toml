@@ -1,0 +1,14 @@
+name = "Force Lowercase Commands"
+filename = "forcelowercasecommands-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/CwxVUnPT/versions/LLEfJsEG/forcelowercasecommands-1.0.0.jar"
+hash-format = "sha512"
+hash = "8f9c84c318eb12491e4f3afaa7f55852512d067e23fa4751badd89c52423509b538113a29e1a0e66648dcc40b83d834313831bb62cf58395fb4e896d01b20d01"
+
+[update]
+[update.modrinth]
+mod-id = "CwxVUnPT"
+version = "LLEfJsEG"

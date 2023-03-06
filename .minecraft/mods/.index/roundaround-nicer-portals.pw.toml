@@ -1,0 +1,14 @@
+name = "Nicer Portals"
+filename = "nicerportals-1.0.1+1.19.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ZD4RcHBZ/versions/qwPahJjH/nicerportals-1.0.1%2B1.19.3.jar"
+hash-format = "sha512"
+hash = "470be4411d1794fbbd40298a5d4c9d37979365cd2a22c20def2a1aebd9efb2914dfb8f72000732b8bfca50825bdbfd72b8f36242733044cf47a662677a0e4ac6"
+
+[update]
+[update.modrinth]
+mod-id = "ZD4RcHBZ"
+version = "qwPahJjH"

@@ -1,0 +1,14 @@
+{
+	"flightMode": "CREATIVE",
+	"interactionMode": "CAMERA",
+	"horizontalSpeed": 0.8,
+	"verticalSpeed": 0.5,
+	"noClip": false,
+	"disableOnDamage": true,
+	"allowInteract": true,
+	"freezePlayer": true,
+	"showPlayer": true,
+	"showHand": false,
+	"notifyFreecam": true,
+	"notifyTripod": true
+}

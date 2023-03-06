@@ -1,0 +1,14 @@
+name = "OptiGUI"
+filename = "optigui-2.0.0-alpha.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/JuksLGBQ/versions/eM7FKWWG/optigui-2.0.0-alpha.4.jar"
+hash-format = "sha512"
+hash = "bdae067df72f78df4aaa709501b07a542275aca6137fc902fc001b95f35314158b64a1d2ec522f99e8655fbde5f83960cde0b1b70070167eab8be8007b4f889c"
+
+[update]
+[update.modrinth]
+mod-id = "JuksLGBQ"
+version = "eM7FKWWG"

@@ -1,0 +1,14 @@
+name = "Indium"
+filename = "indium-1.0.14+mc1.19.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/U94NcDpV/indium-1.0.14%2Bmc1.19.3.jar"
+hash-format = "sha512"
+hash = "3117387a555bd196138ca07b47922ac4fb4aac4e7d8aca86b003859485900f7d215ea2ca050febe1e05fab3ad7784a680fb5f67aa7e1a3330b80cf36db50af91"
+
+[update]
+[update.modrinth]
+mod-id = "Orvt0mRa"
+version = "U94NcDpV"

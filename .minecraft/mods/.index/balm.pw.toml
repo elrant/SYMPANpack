@@ -1,0 +1,14 @@
+name = "Balm"
+filename = "balm-fabric-1.19.3-5.0.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/SLR7Xv0p/balm-fabric-1.19.3-5.0.2.jar"
+hash-format = "sha512"
+hash = "769a509fab9824ce4376d4cedd8eddd50ce3daaf805e909813323602476e0351578ea8c9e2166500a1cac57b14c7a84f8c85a3df3b7a6ec243d5729725708cdd"
+
+[update]
+[update.modrinth]
+mod-id = "MBAkmtvl"
+version = "SLR7Xv0p"

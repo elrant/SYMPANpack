@@ -1,0 +1,14 @@
+name = "Custom Entity Models"
+filename = "cem-0.7.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "7ae726e10febcd22c8ec4b8bc49bca3f9239d6aa"
+
+[update]
+[update.curseforge]
+file-id = 4392514
+project-id = 477078

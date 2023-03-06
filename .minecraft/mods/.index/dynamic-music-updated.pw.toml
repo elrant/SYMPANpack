@@ -1,0 +1,14 @@
+name = "Dynamic Music"
+filename = "dynmus-2.2.2+1.19.3-fabric.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "38dcc96756d6130d8aae9c52115bb805098bed79"
+
+[update]
+[update.curseforge]
+file-id = 4332460
+project-id = 690182

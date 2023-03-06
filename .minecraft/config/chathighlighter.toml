@@ -1,0 +1,6 @@
+text = "sympan"
+color = 16776960
+alpha = 127
+usePattern = false
+playSound = true
+sound = "block.note_block.bell"

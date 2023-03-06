@@ -1,0 +1,14 @@
+name = "More Culling"
+filename = "moreculling-1.19.3-0.16.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/51shyZVL/versions/ENUmMM2R/moreculling-1.19.3-0.16.0.jar"
+hash-format = "sha512"
+hash = "9ff3352a7a70c8730800aaf7b5b5612db3fb4c1f177322f6d50ecc522fd385437dae8589a01950fd23bd85cbc0c3b19d6e93ad9aaaec471523a37cc9299ec632"
+
+[update]
+[update.modrinth]
+mod-id = "51shyZVL"
+version = "ENUmMM2R"

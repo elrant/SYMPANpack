@@ -1,0 +1,16 @@
+{
+  "main_menu": {
+    "top_left": ["SYMPANpack v1.3","Built-in Config: DESKTOP"],
+    "top_right": [],
+    "bottom_left": [],
+    "bottom_right": ["Made with love by: nyaambxr"],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": ["SYMPANpack v1.3","Built-in Config: DESKTOP"],
+    "top_right": [],
+    "bottom_left": [],
+    "bottom_right": ["Made with love by: nyaambxr"],
+    "mod_blacklist": []
+  }
+}
