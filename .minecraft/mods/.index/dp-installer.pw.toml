@@ -1,0 +1,14 @@
+name = "Datapack Installer"
+filename = "DatapackInstaller-1.0.0.2-SNAPSHOT.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/N3yT01en/versions/enJMIWBA/DatapackInstaller-1.0.0.2-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "30f500b6fe23743076f69c4f2a1a5a36cda99256f813a6c27a04652050e7f5130584acb6562a8b38db5da17869a8b8b8bf36d2ef623e4efab96baff4b3966fa8"
+
+[update]
+[update.modrinth]
+mod-id = "N3yT01en"
+version = "enJMIWBA"

@@ -1,14 +1,14 @@
-name = "Make Bubbles Pop"
-filename = "make_bubbles_pop-0.0.2-1.19.jar"
+name = "Make Bubbles Pop Mod"
+filename = "make_bubbles_pop-0.1.0-1.19.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/gPCdW0Wr/versions/0.0.2/make_bubbles_pop-0.0.2-1.19.jar"
+url = "https://cdn.modrinth.com/data/gPCdW0Wr/versions/JHZtMWHD/make_bubbles_pop-0.1.0-1.19.jar"
 hash-format = "sha512"
-hash = "c3dbe1def303b12e16abd27328296e3e281b46d7ab506fd025c39e37f69517f9614436caeaf504d10bd79e33cd5f643bd6037e48bb913297f39145469d8a7587"
+hash = "2cbb3ccbfbd40d6303eaa62322555ee62470f689309d7567821b94bbb3d61f947419ccb41ac6195b2c2a188871d6e5443cd5cf6ff7c06db49724e713b15ad628"
 
 [update]
 [update.modrinth]
 mod-id = "gPCdW0Wr"
-version = "Lx3YYG6X"
+version = "JHZtMWHD"

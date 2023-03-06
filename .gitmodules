@@ -1,0 +1,3 @@
+[submodule ".minecraft/installed_datapacks"]
+	path = .minecraft/installed_datapacks
+	url = https://github.com/elrant/SYMPANdatapacks.git
