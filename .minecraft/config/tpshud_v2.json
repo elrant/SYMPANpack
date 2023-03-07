@@ -1,0 +1,16 @@
+{
+    "isEnabled": true,
+    "x": 129,
+    "y": 41,
+    "textColor": 16777215,
+    "valueTextColor": 8904424,
+    "scale": 1.0,
+    "backgroundColor": 16777215,
+    "backgroundOpacity": 0.1,
+    "backgroundEnabled": false,
+    "satisfyTpsCount": true,
+    "textShadow": true,
+    "useServerProvidedData": true,
+    "askedForServerProvidedData": false,
+    "showCompatibilityToast": true
+}
