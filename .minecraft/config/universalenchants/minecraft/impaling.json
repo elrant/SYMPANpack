@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:trident",
+    "$minecraft:weapon",
+    "$minecraft:universal_enchants_axe"
+  ],
+  "incompatible": [
+    "extra_de:rebel",
+    "extra_de:butcher",
+    "minecraft:bane_of_arthropods",
+    "extra_de:voidrender",
+    "minecraft:smite",
+    "extra_de:unravel",
+    "extra_de:herbicide"
+  ]
+}

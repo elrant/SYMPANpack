@@ -1,0 +1,14 @@
+name = "Auditory"
+filename = "auditory-0.0.5-1.19.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/1LjfkWOR/versions/XWyC0Mbo/auditory-0.0.5-1.19.3.jar"
+hash-format = "sha512"
+hash = "7604b0857df10314aaf1b7d65dfac4644a0248e095c8ee2974aa08102e1fcdeb77772768e3dd6c6eb383d87d7597762188b9ba01eebc5390f166742ca6d91582"
+
+[update]
+[update.modrinth]
+mod-id = "1LjfkWOR"
+version = "XWyC0Mbo"

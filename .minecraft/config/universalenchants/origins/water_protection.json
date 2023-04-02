@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor"
+  ],
+  "incompatible": [
+    "minecraft:projectile_protection",
+    "minecraft:protection",
+    "minecraft:fire_protection",
+    "minecraft:blast_protection"
+  ]
+}

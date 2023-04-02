@@ -1,0 +1,14 @@
+name = "tps-hud"
+filename = "tps-hud-1.6.2+1.19.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/2UeET9aA/versions/O9ilVoiT/tps-hud-1.6.2%2B1.19.3.jar"
+hash-format = "sha512"
+hash = "61cb35d7b1bf1440d7c9d1eec9a906c85dcfc070b261c32a8858becf0aae461c40c67934667b45cfb170081fe778562880b63bce0a80670744986068b9716ff1"
+
+[update]
+[update.modrinth]
+mod-id = "2UeET9aA"
+version = "O9ilVoiT"

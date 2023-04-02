@@ -1,0 +1,14 @@
+name = "Better Combat"
+filename = "bettercombat-fabric-1.6.2+1.19.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/5sy6g3kz/versions/ur19k9Ub/bettercombat-fabric-1.6.2%2B1.19.3.jar"
+hash-format = "sha512"
+hash = "3e4d778fe1dbfe6db1b65bbefb683411a4a4aa6116c6dbd3cb55f80dde5a1f710a61273d2d9fd36575efae980855b395c8d1b653317cacaf3202603b46d1416f"
+
+[update]
+[update.modrinth]
+mod-id = "5sy6g3kz"
+version = "ur19k9Ub"

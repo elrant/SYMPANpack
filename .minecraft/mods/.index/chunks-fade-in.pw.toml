@@ -1,0 +1,14 @@
+name = "Chunks fade in"
+filename = "chunksfadein-v2.0.11-1.19.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/JaNmzvA8/versions/PGqpUEhW/chunksfadein-v2.0.11-1.19.3.jar"
+hash-format = "sha512"
+hash = "de1a103b14b0e5c974497613e9a3eb57fd931f1c6398aedcdbc437f405344a0b60e857934ea133ab2138bb55f325f392d839fae7f5dcb2e714145a06518e9c56"
+
+[update]
+[update.modrinth]
+mod-id = "JaNmzvA8"
+version = "PGqpUEhW"

@@ -1,0 +1,14 @@
+name = "Cammie's Minecart Tweaks"
+filename = "cammies-minecart-tweaks-1.8.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/D2gIe1ZY/versions/qpCe2Dtp/cammies-minecart-tweaks-1.8.jar"
+hash-format = "sha512"
+hash = "2fe8de8a9d133ab6f5f93adf8298156ca5e6a86d968768e00bac8d62b01a42f852a81ae4ec2efad1481f045de6003d532c146c0341575cf6da61976eefb5f3d1"
+
+[update]
+[update.modrinth]
+mod-id = "D2gIe1ZY"
+version = "qpCe2Dtp"

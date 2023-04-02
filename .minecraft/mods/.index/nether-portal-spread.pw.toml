@@ -1,0 +1,14 @@
+name = "Nether Portal Spread"
+filename = "netherportalspread-1.19.3-7.5.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/z7UX4SHt/versions/rQZDLBz7/netherportalspread-1.19.3-7.5.jar"
+hash-format = "sha512"
+hash = "1fadd2fdb08d66bc61b66d663b7ae361fe91fe1e6c628bd8ba94724830eab3a953ee74dd8d576fe24f8d401df099f7f55047725f952df3beaf8f5a3472c86da9"
+
+[update]
+[update.modrinth]
+mod-id = "z7UX4SHt"
+version = "rQZDLBz7"

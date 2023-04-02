@@ -4,6 +4,7 @@
   "button_active_color": -1608507360,
   "hide_font_button": true,
   "hide_settings_button": true,
+  "max_symbol_suggestions": 5,
   "symbol_tooltip_mode": "DELAYED",
   "hud_position": "RIGHT",
   "custom_symbols": "",

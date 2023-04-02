@@ -1,0 +1,14 @@
+name = "Spawn Animations"
+filename = "spawn-animations-1.8.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/zrzYrlm0/versions/2jV4945M/spawn-animations-1.8.2.jar"
+hash-format = "sha512"
+hash = "b11db08bb195f20650dcfde71d145701b221f3ac33789647f2c34a68c633cbfa57b974803c0a3abd9d9bf199e9d5b8d84a2763e325668d6d4db0df2af85b72eb"
+
+[update]
+[update.modrinth]
+mod-id = "zrzYrlm0"
+version = "2jV4945M"

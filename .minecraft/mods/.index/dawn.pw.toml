@@ -1,0 +1,14 @@
+name = "Dawn API"
+filename = "dawn-4.1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/meZK2DCX/versions/LZIVk6xR/dawn-4.1.1.jar"
+hash-format = "sha512"
+hash = "8a6a4e6bb64adbd5e193f464a2b9fbc9c62ae7048ae98db51c7ca2acdf9d2cd825ce37ac2f4c54faa75f58f242d5f848a8814c27ad0ece295c4d37c71d15202c"
+
+[update]
+[update.modrinth]
+mod-id = "meZK2DCX"
+version = "LZIVk6xR"

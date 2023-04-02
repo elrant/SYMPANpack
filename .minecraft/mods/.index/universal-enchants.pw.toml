@@ -1,0 +1,14 @@
+name = "Universal Enchants"
+filename = "UniversalEnchants-v5.0.0-1.19.3-Fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/DT56YDir/versions/JqFLBNFr/UniversalEnchants-v5.0.0-1.19.3-Fabric.jar"
+hash-format = "sha512"
+hash = "060e4960fa594d5bb51cf1b3b46d6a8bc92378ffe8f33002963bc67547a0b653f6cc1f8ccdf16c70714d6dac448b291e39e10011a9b520974e531842ef4270a4"
+
+[update]
+[update.modrinth]
+mod-id = "DT56YDir"
+version = "JqFLBNFr"

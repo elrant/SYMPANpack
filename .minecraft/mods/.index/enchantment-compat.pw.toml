@@ -1,0 +1,14 @@
+name = "Enchantment Compatibility"
+filename = "enchantmentcompat-1.0.1+1.19.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/nmxvfgSx/versions/WkcClRa3/enchantmentcompat-1.0.1%2B1.19.3.jar"
+hash-format = "sha512"
+hash = "5bfc4118a87c888afda32ff6f97e981ffba99c045057d782cb86b8871ed5bd55339e0347f09cbcf372e9f0f8f3fd30b0e0c6e56d57d8bf27531cb787ab47f1a4"
+
+[update]
+[update.modrinth]
+mod-id = "nmxvfgSx"
+version = "WkcClRa3"
