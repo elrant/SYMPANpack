@@ -1,6 +1,6 @@
 {
 	// The address to connect to when the button is pressed.
-	"address": "sympan.elrant.team",
+	"address": "sympanmc.net",
 	// The name of the button.
 	"connectButton": "SYMPAN",
 	// The side to align the button to. ('LEFT'/'RIGHT')
