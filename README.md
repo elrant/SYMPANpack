@@ -1,2 +1,4 @@
 # SYMPANpack
-The SYMPAN clientside experience. Powered by Quilt.
+The SYMPAN modded experience. Powered by Quilt.
+
+Currently broken
