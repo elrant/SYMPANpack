@@ -1,6 +1,0 @@
-{
-  "parent": "item/templates/boat",
-  "textures": {
-    "boat": "entity/boat/acacia"
-  }
-}

@@ -185,29 +185,3 @@ mode = "fastest"
 				painting = true
 				wither = true
 
-			[light_sources.settings.entities.more_babies]
-				skeleton = true
-				bat = true
-				shulker = true
-				evoker = true
-				cave_spider = true
-				salmon = true
-				glow_squid = true
-				squid = true
-				spider = true
-				creeper = true
-				enderman = true
-
-			[light_sources.settings.entities.friendsandfoes]
-				copper_golem = true
-				glare = true
-				moobloom = true
-				tuff_golem = true
-				mauler = true
-				wildfire = true
-				iceologer = true
-
-			[light_sources.settings.entities.wilderwild]
-				firefly = true
-				jellyfish = true
-

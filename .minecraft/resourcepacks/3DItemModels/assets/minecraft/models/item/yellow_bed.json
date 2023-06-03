@@ -1,6 +1,0 @@
-{
-  "parent": "item/templates/bed",
-  "textures": {
-    "particle": "block/yellow_wool"
-  }
-}

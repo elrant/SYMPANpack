@@ -11,6 +11,6 @@
     "satisfyTpsCount": true,
     "textShadow": true,
     "useServerProvidedData": true,
-    "askedForServerProvidedData": true,
+    "askedForServerProvidedData": false,
     "showCompatibilityToast": true
 }

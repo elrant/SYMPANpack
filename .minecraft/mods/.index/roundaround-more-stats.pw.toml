@@ -1,14 +1,14 @@
 name = "More Stats"
-filename = "morestats-1.1.1+1.19.3.jar"
+filename = "morestats-1.1.2+1.19.3.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/LM0kAHd5/versions/WsbZfEYB/morestats-1.1.1%2B1.19.3.jar"
+url = "https://cdn.modrinth.com/data/LM0kAHd5/versions/3rudg6ru/morestats-1.1.2%2B1.19.3.jar"
 hash-format = "sha512"
-hash = "55df3887b66a243a7d0dda60756df037e5008910594cd645d2ff820030a551042d6b68b75cc6ea738e7cc0630d746be686545530aadd698e056b5fce750176cc"
+hash = "b3d384fbb13410b560edb9138af7adf8b7261831035ece22537f3bd6f61b4650c28c89a60c33ae4b0198dca04faeaeb020e4d151564e39f1de106853c2947ebb"
 
 [update]
 [update.modrinth]
 mod-id = "LM0kAHd5"
-version = "WsbZfEYB"
+version = "3rudg6ru"

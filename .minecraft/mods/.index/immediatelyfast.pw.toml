@@ -1,14 +1,14 @@
 name = "ImmediatelyFast"
-filename = "ImmediatelyFast-1.1.10+1.19.3.jar"
+filename = "ImmediatelyFast-1.1.12+1.19.3.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/CdpFa9ts/ImmediatelyFast-1.1.10%2B1.19.3.jar"
+url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/fnLm3B23/ImmediatelyFast-1.1.12%2B1.19.3.jar"
 hash-format = "sha512"
-hash = "88d03b970a688cfeedb127077bd75f8cb57e718c9df84f4bd202ea5d2c4e465edf358a223522c8ae037c7918c02e257eaee7cc295f3e9c4e8920171dce0e2a81"
+hash = "19a333a9629712d6e897bcd8f9a5e412ea725d0148b9fd8a763de9cc8d948d8ddafb75f51d814b8342fbc03a45e56d42845164e2b16766467522b601c1cfc9d2"
 
 [update]
 [update.modrinth]
 mod-id = "5ZwdcRci"
-version = "CdpFa9ts"
+version = "fnLm3B23"

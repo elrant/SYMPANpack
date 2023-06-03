@@ -1,9 +1,0 @@
-{
-  "schemaVersion": 2,
-  "items": [
-    "$minecraft:elytra"
-  ],
-  "incompatible": [
-    "minecraft:protection"
-  ]
-}

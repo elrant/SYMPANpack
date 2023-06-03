@@ -46,8 +46,8 @@
     ],
     "key": "localserver",
     "toolTip": "mod.stepup.config.tt.onthisserver",
-    "value": 0,
-    "defaultValue": 0,
+    "value": 1,
+    "defaultValue": 1,
     "minValue": 0,
     "maxValue": 2
   }

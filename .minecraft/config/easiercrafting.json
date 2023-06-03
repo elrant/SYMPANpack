@@ -8,7 +8,7 @@
   "easiercrafting.config.hidewithrei": {
     "key": "easiercrafting.config.hidewithrei",
     "toolTip": "easiercrafting.config.tt.hidewithrei",
-    "value": true,
+    "value": false,
     "defaultValue": true
   },
   "easiercrafting.config.hidebrewingstandbutton": {
@@ -20,7 +20,7 @@
   "easiercrafting.config.guiright": {
     "key": "easiercrafting.config.guiright",
     "toolTip": "easiercrafting.config.tt.guiright",
-    "value": false,
+    "value": true,
     "defaultValue": true
   },
   "easiercrafting.config.categorize": {
@@ -32,7 +32,7 @@
   "easiercrafting.config.fadeout": {
     "key": "easiercrafting.config.fadeout",
     "toolTip": "easiercrafting.config.tt.fadeout",
-    "value": 500,
+    "value": 125,
     "defaultValue": 500,
     "minValue": 0,
     "maxValue": 2000

@@ -1,0 +1,14 @@
+name = "Phenomena Structures"
+filename = "phenomena-2.2.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/OYbhdG0w/versions/q45PGTWS/phenomena-2.2.1.jar"
+hash-format = "sha512"
+hash = "69f1531032adec9c2776d8dd92071dfd3cfb1345f2786af9a783ff96ecce731469161c62a269e6be4cc1e638c06cd7730833fe0281a4950780cc6cdc33d7f4ca"
+
+[update]
+[update.modrinth]
+mod-id = "OYbhdG0w"
+version = "q45PGTWS"

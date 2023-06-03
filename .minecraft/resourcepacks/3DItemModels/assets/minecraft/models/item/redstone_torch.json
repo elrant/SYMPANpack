@@ -1,6 +1,0 @@
-{
-  "parent": "item/templates/torch",
-  "textures": {
-    "torch": "block/redstone_torch"
-  }
-}

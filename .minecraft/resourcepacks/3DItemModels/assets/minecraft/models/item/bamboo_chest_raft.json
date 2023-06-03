@@ -1,6 +1,0 @@
-{
-  "parent": "item/templates/chest_raft",
-  "textures": {
-    "raft": "entity/chest_boat/bamboo"
-  }
-}

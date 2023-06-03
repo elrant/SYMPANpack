@@ -1,14 +1,14 @@
-name = "NoRecipeBook (Fabric)"
-filename = "norecipebook-2.2+1.19.jar"
+name = "NoRecipeBook"
+filename = "norecipebook-2.3+1.19.4.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/TvL1V8O5/versions/2.2%2B1.19/norecipebook-2.2%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/TvL1V8O5/versions/jSRWGgq7/norecipebook-2.3%2B1.19.4.jar"
 hash-format = "sha512"
-hash = "c25f649d55cb9cdda9079b7df7103d486da5f0b0d9fa54da31fb5e86c8096291ea767cefb783eb9044af9f305413bccb701eea6499c8ab73125d44cb47f19a51"
+hash = "d323551bc0e3ce669dd56f5a3ab1d4e7abb9350714c8d1e6f716772bd58b26bc317253c28136639763ccfde9ddde6f43370574f9522cc803891f12408fca50cc"
 
 [update]
 [update.modrinth]
 mod-id = "TvL1V8O5"
-version = "VP1Lj1kv"
+version = "jSRWGgq7"

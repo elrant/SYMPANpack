@@ -1,6 +1,0 @@
-{
-  "parent": "item/templates/tinted_flat_side",
-  "textures": {
-    "side": "block/vine"
-  }
-}
