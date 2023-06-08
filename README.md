@@ -6,8 +6,12 @@
   SYMPANpack is a modpack that enhances everything we love about Vanilla Bedrock and Java.
 </div>
 
+<p> </p>
+
 <div align=left>
     <b>Key Features:</b>
+    <p> </p>
+    <p> </p>
     <li>Quite immersive!</li>
     <li>Amazing sounds and audio effects!</li>
     <li>Powered by Quilt!<img src=https://raw.githubusercontent.com/QuiltMC/art/master/emoji/uwu_pineapple.png width=22></img></li>
