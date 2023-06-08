@@ -1,0 +1,14 @@
+name = "MicroCutting"
+filename = "microcutting-1.19.3-1.4.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/8B77TpQR/versions/MrAxxDm8/microcutting-1.19.3-1.4.0.jar"
+hash-format = "sha512"
+hash = "22cf71e63c87e52aac553e5786c5f257dc1fac1faa981c803cd7087cc9040f06b8ca40d45b4daf3fffd220e910b9925165f1059b47496491bacc6a5dc2b96945"
+
+[update]
+[update.modrinth]
+mod-id = "8B77TpQR"
+version = "MrAxxDm8"

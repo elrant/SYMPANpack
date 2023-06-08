@@ -1,0 +1,14 @@
+name = "AudioPlayer"
+filename = "audioplayer-1.19.3-1.4.5.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/SRlzjEBS/versions/WUI9tQTS/audioplayer-1.19.3-1.4.5.jar"
+hash-format = "sha512"
+hash = "89c1334e32f435c55d3def0c05041ea7936d5ba5aabf77adc054d34500af4c79d254d461643c47505fbef3b0d6124c096a680fa7d8fcd63c4121d3c7d871ce53"
+
+[update]
+[update.modrinth]
+mod-id = "SRlzjEBS"
+version = "WUI9tQTS"
