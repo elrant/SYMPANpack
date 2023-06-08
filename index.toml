@@ -410,7 +410,7 @@ hash = "27cc0574951d1c7a0fe85b995adaaf97b5339acb09d55a64ccdfc731e71f6731"
 
 [[files]]
 file = ".minecraft/config/isxander-main-menu-credits.json"
-hash = "e2f2e69bd4a825dccb7eeb2a6ff6b6ea345fd3a83dac2b550ebe23e52f4e954d"
+hash = "5c9abcae78e6a5516778ebf226f5720f85d8be08e044a1f4116165a914b1cc78"
 
 [[files]]
 file = ".minecraft/config/itemborders-common-1.toml.bak"
@@ -12785,7 +12785,7 @@ hash = "0ec83707ecb460948db0fb9bab80d7cb2ce0f4c1d9b12027dd035a8631c30e78"
 
 [[files]]
 file = "instance.cfg"
-hash = "7e2c3f642556d5dd9dece209d96bad89ddf3d5a5345aad2ebec1959eb7b7fd50"
+hash = "e2ef5c72da59c5d3e00083c32c0892739465ccfad0d28f6413fcebd0ba52c1a9"
 
 [[files]]
 file = "mmc-pack.json"
