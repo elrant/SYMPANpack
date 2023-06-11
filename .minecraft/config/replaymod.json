@@ -20,7 +20,7 @@
     "recordSingleplayer": true,
     "recordServer": true,
     "indicator": false,
-    "autoStartRecording": false,
+    "autoStartRecording": true,
     "autoPostProcess": true,
     "renameDialog": true
   },

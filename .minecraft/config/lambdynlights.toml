@@ -11,9 +11,9 @@ mode = "fastest"
 	# Enable entities light source.
 	entities = true
 	# Enable first-person player light source.
-	self = false
+	self = true
 	# TNT lighting mode. May be off, simple or fancy.
-	tnt = "off"
+	tnt = "simple"
 	# Creeper lighting mode. May be off, simple or fancy.
 	creeper = "simple"
 
@@ -60,6 +60,9 @@ mode = "fastest"
 				chiseled_bookshelf = true
 				trapped_chest = true
 				blast_furnace = true
+
+			[light_sources.settings.block_entities.visualworkbench]
+				crafting_table = true
 
 		[light_sources.settings.entities]
 
