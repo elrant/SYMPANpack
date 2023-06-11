@@ -25299,13 +25299,8 @@ hash = "0ec83707ecb460948db0fb9bab80d7cb2ce0f4c1d9b12027dd035a8631c30e78"
 
 [[files]]
 file = "instance.cfg"
-hash = "e2ef5c72da59c5d3e00083c32c0892739465ccfad0d28f6413fcebd0ba52c1a9"
+hash = "b4201fd9fe4f5f2f2ba7474485b88fe695a662effec3021ad5a1ab1439a50fc2"
 
 [[files]]
 file = "mmc-pack.json"
-hash = "f848bcf7a5153b203d9bd2e93807f7d41e67fbe8bb418bb8e7bedd17e8b88517"
-
-[[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
-metafile = true
+hash = "a9c217453baa536aac3a531c69a9eb3963d0e486321e4e59d99fd15ed12bfa47"

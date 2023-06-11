@@ -1,13 +1,13 @@
 name = "SYMPANpack"
 author = "Team Elrant"
-version = "1.6.2"
+version = "1.6.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a45c258328c22f3268e08082661bb18e72597497cf2bb486bc434d33ffed0332"
+hash = "48c590990c52a39bad0f5000bb9c05716bc8edc2969641d79f428cd8f2110d87"
 
 [versions]
 minecraft = "1.19.3"
-quilt = "0.18.10"
+quilt = "0.19.0"
