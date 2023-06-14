@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "controlsMode": "DEFAULT",
+  "controlsMode": "CONTROLLER",
   "autoSwitchMode": true,
   "debug": false,
   "hudEnable": true,
@@ -28,10 +28,10 @@
   "joystickAsMouse": false,
   "unfocusedInput": false,
   "virtualMouse": false,
-  "virtualMouseSkin": "DEFAULT_LIGHT",
+  "virtualMouseSkin": "DEFAULT_DARK",
   "controllerID": 0.0,
   "secondControllerID": -1.0,
-  "controllerType": "XBOX_360",
+  "controllerType": "XBOX",
   "mouseScreens": [
     "me.jellysquid.mods.sodium.client.gui",
     "net.coderbot.iris.gui",
