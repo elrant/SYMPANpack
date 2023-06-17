@@ -1,14 +1,14 @@
 name = "Bounced"
-filename = "bounced-1.19.3-2.1.2.jar"
+filename = "bounced-1.19-2.1.2.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/2mlOZXZr/versions/EVIvdrY8/bounced-1.19.3-2.1.2.jar"
+url = "https://cdn.modrinth.com/data/2mlOZXZr/versions/cr4TmvMd/bounced-1.19-2.1.2.jar"
 hash-format = "sha512"
-hash = "e4ef2d94043ccd7592a593a694f72f7405f0bca8a95687010426c3b3814096cd7d604ee9ef4b8d9a131289837c8e2d0885f57636000998e8f0ead7e97dfac67f"
+hash = "83ccac9d53009d570a3907d403a28f996ac1a33e2594fda8440ec3716fcabef32dff917fa820a56e5a3bc4afda300650b713a2ecbee2ce2daa280299145f7f5a"
 
 [update]
 [update.modrinth]
 mod-id = "2mlOZXZr"
-version = "EVIvdrY8"
+version = "cr4TmvMd"

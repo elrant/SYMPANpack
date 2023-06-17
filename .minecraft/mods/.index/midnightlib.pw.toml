@@ -1,0 +1,14 @@
+name = "MidnightLib"
+filename = "midnightlib-quilt-1.0.0-patch1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/hxPiYWhh/midnightlib-quilt-1.0.0-patch1.jar"
+hash-format = "sha512"
+hash = "c6ca94a860ddef65fa48e3ac49bb38ae7d62994b191d1f97f291c9b88b488abba194aa99c8e3e96d2f48c399378f0665ed3016e080a4bcfedfb6ef28fc6f14b4"
+
+[update]
+[update.modrinth]
+mod-id = "codAaoxh"
+version = "hxPiYWhh"

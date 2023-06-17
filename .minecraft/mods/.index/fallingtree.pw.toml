@@ -1,0 +1,14 @@
+name = "FallingTree"
+filename = "FallingTree-1.19.2-3.10.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Fb4jn8m6/versions/9kSv8gsK/FallingTree-1.19.2-3.10.0.jar"
+hash-format = "sha512"
+hash = "47c0a1ae0bafcc4128299e1551acab9badd3caef70fe2127f133ec95b51d38edc12c2bfca649eda5bcc6f0505c0655b7b26c2f7e2d6b4daf49ec220d109fc917"
+
+[update]
+[update.modrinth]
+mod-id = "Fb4jn8m6"
+version = "9kSv8gsK"

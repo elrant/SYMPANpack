@@ -1,14 +1,14 @@
 name = "True Darkness"
-filename = "darkness-fabric-mc119-2.0.103.jar"
+filename = "darkness-fabric-mc119-2.0.101.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
-hash-format = "sha1"
-hash = "23a307f8be02857aa95b7349a014890a3da68201"
+mode = "url"
+url = "https://cdn.modrinth.com/data/Ja7zPEaN/versions/4uCbhkGv/darkness-fabric-mc119-2.0.101.jar"
+hash-format = "sha512"
+hash = "b7e055fcca2cccad505185aaad1bf8eefce7e3d79e8e8623368d49a2778de2980e9e425fcddb3701e19d3b93dcde3e23e6d38da0c76580be19dc7e181e7e74fc"
 
 [update]
-[update.curseforge]
-file-id = 4166647
-project-id = 337243
+[update.modrinth]
+mod-id = "Ja7zPEaN"
+version = "4uCbhkGv"

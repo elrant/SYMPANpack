@@ -1,1 +1,0 @@
-https://www.curseforge.com/members/bajosi/projects

@@ -1,0 +1,14 @@
+name = "More Culling Extra"
+filename = "MoreCullingExtra-1.1-backport_1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/dFKMFBrn/versions/iNzUzmM1/MoreCullingExtra-1.1-backport_1.19.2.jar"
+hash-format = "sha512"
+hash = "b9f79e8545be04bd78d0040a0e4b3a441394a52bcbac0cb7a26e92360a4c29d6483c73335062e31deb416b578c53a9915b664c856a5e2f734682946e9554c41a"
+
+[update]
+[update.modrinth]
+mod-id = "dFKMFBrn"
+version = "iNzUzmM1"
