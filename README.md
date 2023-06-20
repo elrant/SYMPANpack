@@ -19,6 +19,6 @@
     <li>Well optimized, especially considering mod count and version</li>
     <li>The modpack is shipped with sane defaults</li>
     <li>Client & Server!</li>
-    <li>LAN Forwarding built in! (if you disable Voice Chat)</li>
+    <li>LAN Forwarding built in!</li>
     <li>"No Dragons or Guns", we keep the modpack feeling Minecraft-y</li>
 </div>
