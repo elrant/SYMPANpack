@@ -19,7 +19,7 @@
     <li>Still very queer!</li>
     <li>Even better optimized, way less jank</li>
     <li>The modpack is shipped with even saner defaults</li>
-    <li>Client* & Server (* = Singleplayer worlds don't save due to long worldgen times)</li>
-    <li><s>LAN Forwarding</s></li>
+    <li>Client* & Server (* = Singleplayer has long worldgen times)</li>
+    <li>LAN Forwarding</li>
     <li>Still "No Dragons or Guns", we try to keep the modpack feeling Minecraft-y even with content mods</li>
 </div>
