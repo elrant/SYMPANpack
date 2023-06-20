@@ -1,0 +1,14 @@
+name = "HealthIndicator"
+filename = "healthindicator-1.1.0+mc1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/gVFdvNDw/versions/LtTtIbAV/healthindicator-1.1.0%2Bmc1.19.2.jar"
+hash-format = "sha512"
+hash = "bb0a7ad872530cfbc8070b99cce4bf7511fad3f6b990eb0c7d426df37096f7a35671abd9a02270c7341b59ab88d4d3d9f23a408c77eebebc9a3153aa32f62f38"
+
+[update]
+[update.modrinth]
+mod-id = "gVFdvNDw"
+version = "LtTtIbAV"

@@ -1,0 +1,14 @@
+name = "Inspecio"
+filename = "inspecio-1.6.0+1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/a93H3mKU/versions/1.6.0%2B1.19/inspecio-1.6.0%2B1.19.jar"
+hash-format = "sha512"
+hash = "46d7c73577ec2bbd292fdeaaa2e91e54142db9a1fb700299fcfc5711494d5cbaecce1720c23e61f7586f8f994a69bb089128f39b73f5ce8eb84c33dce5030b81"
+
+[update]
+[update.modrinth]
+mod-id = "a93H3mKU"
+version = "ajfDYyUy"

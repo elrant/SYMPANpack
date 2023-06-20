@@ -1,0 +1,14 @@
+name = "No Nether Portal Overlay"
+filename = "no-nether-portal-overlay-1.0.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/IHmpzGtW/versions/1.0.3/no-nether-portal-overlay-1.0.3.jar"
+hash-format = "sha512"
+hash = "9a336176445042a5c340a09034f0c9f3c6d7d11359c141425670157750a3218693ec7488967f0802308fa49a81c004bd5a85ff0cbbe93b98c6339dda8ce8b5f0"
+
+[update]
+[update.modrinth]
+mod-id = "IHmpzGtW"
+version = "D7GRHo1T"

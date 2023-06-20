@@ -15,8 +15,6 @@
   },
   "caveDetection": {
     "searchRange": 5,
-    "darknessCap": 8,
-    "darknessPercent": 0.3,
     "stonePercent": 0.15
   },
   "mineshaftDetection": {

@@ -1,0 +1,14 @@
+name = "Better Statistics Screen (Fabric)"
+filename = "betterstats-2.9.3+1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/n6PXGAoM/versions/5RoB9ulm/betterstats-2.9.3%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "15ac44963a8d4c3295bad4258ffbe0d315c6fdb292710a7e94af8126977fbe0d8edfd489b3fb460161c96d3e858966acdb5bf0a04c033803398400c95508f992"
+
+[update]
+[update.modrinth]
+mod-id = "n6PXGAoM"
+version = "5RoB9ulm"

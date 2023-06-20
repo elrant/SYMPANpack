@@ -25,10 +25,11 @@
   },
   "render_settings": {
     "fog_distance": 0,
-    "fog_start": 100,
+    "fog_start": 50,
     "multi_dimension_fog_control": false,
     "dimensionFogDistance": {
-      "minecraft:overworld": 0
+      "minecraft:overworld": 0,
+      "minecraft:the_nether": 0
     },
     "use_linear_flat_color_blender": false,
     "light_updates": true,
@@ -52,9 +53,9 @@
     "cloud_height": 192,
     "toasts": true,
     "advancement_toast": true,
-    "recipe_toast": true,
+    "recipe_toast": false,
     "system_toast": true,
-    "tutorial_toast": true,
+    "tutorial_toast": false,
     "instant_sneak": false,
     "prevent_shaders": false
   },

@@ -1,0 +1,14 @@
+name = "BactroMod"
+filename = "bactromod-1.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/2Ok6dkOD/versions/hv0XwzOf/bactromod-1.3.jar"
+hash-format = "sha512"
+hash = "7332dcfe35b47bc1de6fff02facffabfdb6006201b7690f8b4658775142781a24b9458ee5166ccd1b05106dee17069c0c081a7dae6ab1741cfad6b08d5b54333"
+
+[update]
+[update.modrinth]
+mod-id = "2Ok6dkOD"
+version = "hv0XwzOf"

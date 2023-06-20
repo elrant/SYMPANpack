@@ -1,0 +1,14 @@
+name = "Noxesium"
+filename = "noxesium-0.1.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/WhRq6Q4n/noxesium-0.1.4.jar"
+hash-format = "sha512"
+hash = "ffaa49852ce15f64c50ddca28826cc9d9796dfb918a14ddf5ad69173979075a9f929663498b5b453d9a02a4553f0ebb3e6f50b546920be0dbee7d2866047cd1d"
+
+[update]
+[update.modrinth]
+mod-id = "Kw7Sm3Xf"
+version = "WhRq6Q4n"

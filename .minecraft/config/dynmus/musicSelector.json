@@ -44,12 +44,7 @@
     "wait": "None",
     "otherside": "None",
     "five": "None",
-    "pigstep": "None",
-    "end": "None",
-    "end_creative1": "None",
-    "end_creative2": "None",
-    "end_creative3": "None",
-    "end_creative4": "None"
+    "pigstep": "None"
   },
   "coldMusic": {
     "calm1": "None",
@@ -96,12 +91,7 @@
     "wait": "None",
     "otherside": "None",
     "five": "None",
-    "pigstep": "None",
-    "end": "None",
-    "end_creative1": "None",
-    "end_creative2": "None",
-    "end_creative3": "None",
-    "end_creative4": "None"
+    "pigstep": "None"
   },
   "hotMusic": {
     "calm1": "None",
@@ -148,12 +138,7 @@
     "wait": "None",
     "otherside": "None",
     "five": "None",
-    "pigstep": "None",
-    "end": "None",
-    "end_creative1": "None",
-    "end_creative2": "None",
-    "end_creative3": "None",
-    "end_creative4": "None"
+    "pigstep": "None"
   },
   "niceMusic": {
     "calm1": "Both",
@@ -200,12 +185,7 @@
     "wait": "None",
     "otherside": "None",
     "five": "None",
-    "pigstep": "None",
-    "end": "None",
-    "end_creative1": "None",
-    "end_creative2": "None",
-    "end_creative3": "None",
-    "end_creative4": "None"
+    "pigstep": "None"
   },
   "downMusic": {
     "calm1": "None",
@@ -252,12 +232,7 @@
     "wait": "None",
     "otherside": "None",
     "five": "None",
-    "pigstep": "None",
-    "end": "None",
-    "end_creative1": "None",
-    "end_creative2": "None",
-    "end_creative3": "None",
-    "end_creative4": "None"
+    "pigstep": "None"
   },
   "endMusic": {
     "calm1": "None",

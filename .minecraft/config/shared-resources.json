@@ -1,0 +1,14 @@
+{
+  "globalDirectory": {
+    "root": "."
+  },
+  "enabled": {
+    "shared-resources:shaderpacks": true,
+    "shared-resources:options": true,
+    "shared-resources:servers": true,
+    "shared-resources:saves": true,
+    "shared-resources:resourcepacks": true,
+    "shared-resources:config": true,
+    "shared-resources:screenshots": true
+  }
+}

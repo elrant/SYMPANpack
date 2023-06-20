@@ -1,15 +1,15 @@
 {
   "quality": {
-    "weather_quality": "FANCY",
-    "leaves_quality": "FANCY",
-    "enable_vignette": false
+    "weather_quality": "DEFAULT",
+    "leaves_quality": "DEFAULT",
+    "enable_vignette": true
   },
   "advanced": {
     "arena_memory_allocator": "ASYNC",
     "allow_direct_memory_access": true,
     "enable_memory_tracing": false,
     "use_advanced_staging_buffers": true,
-    "cpu_render_ahead_limit": 4
+    "cpu_render_ahead_limit": 3
   },
   "performance": {
     "chunk_builder_threads": 0,

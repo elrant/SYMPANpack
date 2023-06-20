@@ -1,16 +1,16 @@
 {
   "main_menu": {
-    "top_left": ["SYMPANtectonic BETA 2","Send logs to irisnk#3011"],
+    "top_left": ["SYMPANpack 17","Release Candidate 1"],
     "top_right": [],
     "bottom_left": [],
-    "bottom_right": ["Made with love by: deermoder && nyaambxr"],
+    "bottom_right": ["Made with love by: Team Elrant, nyaambxr & deermoder"],
     "mod_blacklist": []
   },
   "pause_menu": {
-    "top_left": ["SYMPANtectonic BETA 2","Send logs to irisnk#3011"],
+    "top_left": ["SYMPANpack 17","Release Candidate 1"],
     "top_right": [],
     "bottom_left": [],
-    "bottom_right": ["Made with love by: deermoder && nyaambxr"],
+    "bottom_right": ["Made with love by: Team Elrant, nyaambxr & deermoder"],
     "mod_blacklist": []
   }
 }

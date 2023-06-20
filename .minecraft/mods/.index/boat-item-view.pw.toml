@@ -1,0 +1,14 @@
+name = "Boat Item View"
+filename = "Boat-Item-View-Fabric-1.19.1-1.19.2-0.0.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/BdKIyOLe/versions/1.19.1-1.19.2-fabric/Boat-Item-View-Fabric-1.19.1-1.19.2-0.0.4.jar"
+hash-format = "sha512"
+hash = "3c5462638f40fc5650677adffd7849400560545b2f6b675e1e8d7fdf63537b00946fd99034ead09e7476037ea9976a2074ea76b9a3fb4d2bf89dfc09d25b9b03"
+
+[update]
+[update.modrinth]
+mod-id = "BdKIyOLe"
+version = "6ntFgSkW"

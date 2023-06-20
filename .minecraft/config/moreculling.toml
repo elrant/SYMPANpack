@@ -11,14 +11,9 @@ useItemFrame3FaceCulling = true
 itemFrame3FaceCullingRange = 12.0
 leavesCullingMode = "CHECK"
 leavesCullingAmount = 2
-includeMangroveRoots = true
+includeMangroveRoots = false
 powderSnowCulling = true
 useOnModdedBlocksByDefault = true
 
 [modCompatibility]
-seasonsextras = true
-farmersdelight = true
-milk = true
-create = true
-charm = true
 minecraft = true

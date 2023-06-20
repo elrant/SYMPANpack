@@ -21,4 +21,6 @@
 		extra_glow = false
 		# If automatic borders (based on item rarity) should be enabled.
 		auto_borders = true
+		# If enabled and Legendary Tooltips is installed, borders will sync with tooltip border colors.
+		legendary_tooltips_sync = false
 
