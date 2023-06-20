@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:acacia_logs"
+        }
+    },
+    "result": {
+        "item": "minecraft:acacia_door",
+        "count": 12
+    }
+}

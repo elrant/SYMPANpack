@@ -1,0 +1,14 @@
+name = "OriginAddons"
+filename = "originaddons-1.0.2-UNIVERSAL.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ECVMthxr/versions/kSJUhy3v/originaddons-1.0.2-UNIVERSAL.jar"
+hash-format = "sha512"
+hash = "88ee3a75c07d1298ad0d63831c5c1de80d2f79925aa22f303170f1d9956db0ed26f8a688fb13189b2f00201c795852f6a9483f3e41aa8eda2a75f85c0e82bc4e"
+
+[update]
+[update.modrinth]
+mod-id = "ECVMthxr"
+version = "kSJUhy3v"

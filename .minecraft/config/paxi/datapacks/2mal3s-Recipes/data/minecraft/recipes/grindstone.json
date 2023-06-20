@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"I":{"item":"minecraft:stick"},"-":{"tag":"2re:polished_stone_slab"},"#":{"tag":"minecraft:planks"}},"pattern":["I-I","# #"],"result":{"item":"minecraft:grindstone"}}

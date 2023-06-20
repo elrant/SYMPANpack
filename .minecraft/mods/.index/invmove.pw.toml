@@ -1,0 +1,14 @@
+name = "InvMove"
+filename = "InvMove-1.19-0.8.4-Quilt.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/REfW2AEX/versions/WIXovitR/InvMove-1.19-0.8.4-Quilt.jar"
+hash-format = "sha512"
+hash = "0e6ec24ec5819b170a1a572b948c5e281dc3f7d0be9dc840bd1f144dc48dfe3e380874df5c651f553bb46389c7cd589db820a403fea66bf5bfa5f7a69e6f31e2"
+
+[update]
+[update.modrinth]
+mod-id = "REfW2AEX"
+version = "WIXovitR"

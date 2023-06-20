@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "tag": "minecraft:acacia_logs"
+    }
+  },
+  "result": {
+    "item": "minecraft:acacia_trapdoor",
+    "count": 8
+  }
+}

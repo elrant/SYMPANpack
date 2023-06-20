@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+		{
+    	"item": "minecraft:acacia_planks"
+		},
+		{
+	    "item": "minecraft:acacia_chest_boat"
+	  }
+	],
+  "result": "minecraft:acacia_boat",
+  "group": "cutting_boats",
+  "count": 1
+}

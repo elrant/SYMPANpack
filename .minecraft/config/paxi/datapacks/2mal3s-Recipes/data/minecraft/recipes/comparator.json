@@ -1,0 +1,1 @@
+{"type":"crafting_shaped","key":{"#":{"item":"minecraft:redstone_torch"},"X":{"item":"minecraft:quartz"},"I":{"tag":"2re:polished_stone"}},"pattern":[" # ","#X#","III"],"result":{"item":"minecraft:comparator"}}

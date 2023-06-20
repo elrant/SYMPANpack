@@ -1,0 +1,17 @@
+{
+	"pack": {
+		"pack_format": 10,
+		"description": "Overhauled Vanilla Dungeons!"
+	},
+	"filter": {
+		"block": [{
+				"namespace": "minecraft",
+				"path": "worldgen/placed_feature/moster_room"
+			},
+			{
+				"namespace": "minecraft",
+				"path": "worldgen/placed_feature/monster_room_deep"
+			}
+		]
+	}
+}

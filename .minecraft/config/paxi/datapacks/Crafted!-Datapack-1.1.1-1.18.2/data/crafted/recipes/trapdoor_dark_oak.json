@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "tag": "minecraft:dark_oak_logs"
+    }
+  },
+  "result": {
+    "item": "minecraft:dark_oak_trapdoor",
+    "count": 8
+  }
+}

@@ -1,0 +1,14 @@
+name = "Mo's Grounded Origins [FABRIC]"
+filename = "grounded_origins-fabric-1.19.2-1.2.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "ebc7e961721fafe59da4353605b6d0af69ca43f2"
+
+[update]
+[update.curseforge]
+file-id = 4036280
+project-id = 568199

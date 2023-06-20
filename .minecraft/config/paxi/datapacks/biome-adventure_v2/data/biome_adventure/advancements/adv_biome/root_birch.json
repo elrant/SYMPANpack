@@ -1,0 +1,60 @@
+{
+  "parent": "biome_adventure:adv_biome/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:birch_wood"
+    },
+    "title": {
+      "translate": "biome.minecraft.birch_forest"
+    },
+    "description": {
+      "text": ""
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "minecraft:birch_forest": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "minecraft:birch_forest"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    },
+    "minecraft:old_growth_birch_forest": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "minecraft:old_growth_birch_forest"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "requirement": [
+    [
+      "birch_forest"
+    ],
+    [
+      "old_growth_birch_forest"
+    ]
+  ]
+}

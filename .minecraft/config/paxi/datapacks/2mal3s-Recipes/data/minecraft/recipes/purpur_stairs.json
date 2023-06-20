@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"building","key":{"#":[{"item":"minecraft:purpur_block"},{"item":"minecraft:purpur_pillar"}]},"pattern":["#  ","## ","###"],"result":{"count":8,"item":"minecraft:purpur_stairs"},"group":"stairs"}

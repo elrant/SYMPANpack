@@ -1,16 +1,16 @@
 {
   "main_menu": {
-    "top_left": ["SYMPANtectonic BETA","Send logs to irisnk#3011"],
+    "top_left": ["SYMPANtectonic BETA 2","Send logs to irisnk#3011"],
     "top_right": [],
     "bottom_left": [],
-    "bottom_right": ["Made with love by: deermoder & nyaambxr"],
+    "bottom_right": ["Made with love by: deermoder && nyaambxr"],
     "mod_blacklist": []
   },
   "pause_menu": {
-    "top_left": ["SYMPANtectonic BETA","Send logs to irisnk#3011"],
+    "top_left": ["SYMPANtectonic BETA 2","Send logs to irisnk#3011"],
     "top_right": [],
     "bottom_left": [],
-    "bottom_right": ["Made with love by: deermoder & nyaambxr"],
+    "bottom_right": ["Made with love by: deermoder && nyaambxr"],
     "mod_blacklist": []
   }
 }

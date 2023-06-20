@@ -1,0 +1,14 @@
+{
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 26120801,
+      "separation": 8,
+      "spacing": 34
+    },
+    "structures": [
+      {
+        "structure": "villages_overhauled:village_snowy_taiga",
+        "weight": 1
+      }
+    ]
+  }

@@ -1,0 +1,14 @@
+name = "Origins"
+filename = "Origins-1.19.2-1.7.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/3BeIrqZR/versions/FxSutbg1/Origins-1.19.2-1.7.1.jar"
+hash-format = "sha512"
+hash = "06596867e425635a53a233423f1fbe4d9cb002b5019029e3f56ecc40ae205d7036c1c278dedfd794fecdae6304b716e46251dce548c8a7d2af75f4e6a64c03e7"
+
+[update]
+[update.modrinth]
+mod-id = "3BeIrqZR"
+version = "FxSutbg1"

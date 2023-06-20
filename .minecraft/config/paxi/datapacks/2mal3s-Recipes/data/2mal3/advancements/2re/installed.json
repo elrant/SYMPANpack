@@ -1,0 +1,1 @@
+{"display":{"title":"2mal3s Recipes v1.7.0","description":"Adds, changes fixes and upgrades 450+ recipes to improve the overall game experience while still keeping the vanilla feel.","icon":{"item":"minecraft:crafting_table"},"announce_to_chat":false,"show_toast":false},"parent":"global:2mal3","criteria":{"trigger":{"trigger":"minecraft:tick"}}}

@@ -1,0 +1,47 @@
+{
+  "structures": [
+    {
+      "structure": "dungeons_plus:mouldy_dungeon",
+      "weight": 3
+    },
+	{
+      "structure": "dungeons_plus:infested_dungeon",
+      "weight": 3
+    },
+	{
+      "structure": "dungeons_plus:deepwater_dungeon",
+      "weight": 1
+    },
+	{
+      "structure": "dungeons_plus:cold_dungeon",
+      "weight": 3
+    },
+	{
+      "structure": "dungeons_plus:frozen_dungeon",
+      "weight": 3
+    },
+	{
+      "structure": "dungeons_plus:webbed_dungeon",
+      "weight": 3
+    },
+	{
+      "structure": "dungeons_plus:lush_dungeon",
+      "weight": 3
+    },
+	{
+      "structure": "dungeons_plus:dusty_tomb",
+      "weight": 3
+    },
+	{
+      "structure": "dungeons_plus:scorched_tomb",
+      "weight": 3
+    }
+	
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 8,
+    "separation": 3,
+    "salt": 5327672363
+  }
+}

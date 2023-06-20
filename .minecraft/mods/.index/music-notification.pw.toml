@@ -1,0 +1,14 @@
+name = "Music Notification"
+filename = "MusicClient-mc1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/A4YQgwzz/versions/LIArjRfI/MusicClient-mc1.19.2-1.0.0.jar"
+hash-format = "sha512"
+hash = "cfb414dd27daefa68702167795bb2f64bb2fc09a4cf4aa304747a60cdb8dea5d80ec1d5dda4a5f62ee45fe58f41fdc2bfee5ee4a934b43b36794f8926d06a054"
+
+[update]
+[update.modrinth]
+mod-id = "A4YQgwzz"
+version = "LIArjRfI"

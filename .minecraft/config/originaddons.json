@@ -1,0 +1,17 @@
+{
+  "customMenus": true,
+  "customTooltips": true,
+  "customBottledExperienceLevelsFrom0Tooltip": true,
+  "customBottledExperienceLevelsFromCurrentTooltip": true,
+  "emojiPicker": true,
+  "hideLockedEmojis": true,
+  "blockPicker": true,
+  "inventoryButtons": true,
+  "rocketBootsFuelBar": true,
+  "neverHideRocketBootsFuelBar": false,
+  "noRocketBootsFuelBarShaking": false,
+  "rocketBootsItemBarType": "FUEL",
+  "cropStarsIcon": true,
+  "optimizeItemFrameRendering": true,
+  "updateNotifications": true
+}

@@ -1,0 +1,13 @@
+Vanilla Tweaks Resource Pack
+Version: 1.19
+Packs:
+	StickyPistonSides
+	DirectionalHoppers
+	DirectionalDispensersDroppers
+	BetterObservers
+	GroovyLevers
+	RedstonePowerLevels
+	CleanRedstoneDust
+
+Combined packs:
+	CleanRedstoneDust+RedstonePowerLevels

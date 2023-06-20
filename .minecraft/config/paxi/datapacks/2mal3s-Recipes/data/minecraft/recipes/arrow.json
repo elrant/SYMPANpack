@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"#":{"item":"minecraft:stick"},"X":{"tag":"2re:arrow_head"},"Y":{"item":"minecraft:feather"}},"pattern":["X","#","Y"],"result":{"item":"minecraft:arrow","count":4}}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+		{
+    	"item": "minecraft:jungle_planks"
+  	},
+		{
+    	"item": "minecraft:jungle_chest_boat"
+  	}
+	],
+  "result": "minecraft:jungle_boat",
+  "group": "cutting_boats",
+  "count": 1
+}

@@ -1,14 +1,14 @@
 name = "Replay Mod"
-filename = "replaymod-1.19.2-2.6.11.jar"
+filename = "replaymod-1.19.2-2.6.13.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/Nv2fQJo5/versions/RTpOrhlB/replaymod-1.19.2-2.6.11.jar"
+url = "https://cdn.modrinth.com/data/Nv2fQJo5/versions/EtYipT0o/replaymod-1.19.2-2.6.13.jar"
 hash-format = "sha512"
-hash = "3eeb43e9d6fe9c6abe67efbad744d2786e47743db5a26b7127a8255ffcde115e694eee9c6c65010eb41bc98e3a7d3072b9e945bc17f77dd23eef3fd2992864e0"
+hash = "c73a750afadbb34d96b9dfae4442ab5f9494c8579fb5b5192cc40c5555ea2f055fb4f543a005351b0dbff85122555ad244d5bf54d4468dc125c6a31de6351a89"
 
 [update]
 [update.modrinth]
 mod-id = "Nv2fQJo5"
-version = "RTpOrhlB"
+version = "EtYipT0o"

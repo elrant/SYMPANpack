@@ -1,0 +1,14 @@
+name = "Sculkling Origin"
+filename = "Sculkling-1.19.x.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "37af2929ca98e0758335d4e01e64b28934211469"
+
+[update]
+[update.curseforge]
+file-id = 3972812
+project-id = 646241
