@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://raw.githubusercontent.com/elrant/BRANDING/main/SYMPAN/Logo/PNG/LOGO%402x.png" width=100></img><h1>SYMPANpack</h1>
+    <img src="https://raw.githubusercontent.com/elrant/BRANDING/main/SYMPAN/Logo/PNG/LOGO%402x.png" width=100></img><h1>SYMPANtectonic</h1>
 </div>
 
 <div align=center>
