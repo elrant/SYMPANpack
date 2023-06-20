@@ -3,7 +3,8 @@
 </div>
 
 <div align=center>
-  SYMPANpack is a modpack that enhances everything we love about Vanilla Bedrock and Java.
+  SYMPANtectonic is an attempt at adding mods to SYMPANpack,
+  these include Create, Origins, Farmer's delight, Incendium, Nullscape and more in the future.
 </div>
 
 <p> </p>
@@ -12,13 +13,13 @@
     <b>Key Features:</b>
     <p> </p>
     <p> </p>
-    <li>Quite immersive!</li>
-    <li>Amazing sounds and audio effects!</li>
-    <li>Powered by Quilt!<img src=https://raw.githubusercontent.com/QuiltMC/art/master/emoji/uwu_pineapple.png width=22></img></li>
-    <li>Very queer!</li>
-    <li>Well optimized, especially considering mod count and version</li>
-    <li>The modpack is shipped with sane defaults</li>
-    <li>Client & Server!</li>
-    <li>LAN Forwarding built in! (if you disable Voice Chat)</li>
-    <li>"No Dragons or Guns", we keep the modpack feeling Minecraft-y</li>
+    <li>Still immersive!</li>
+    <li>Still has amazing sounds and audio effects!</li>
+    <li>Still powered by Quilt!<img src=https://raw.githubusercontent.com/QuiltMC/art/master/emoji/uwu_pineapple.png width=22></img></li>
+    <li>Still very queer!</li>
+    <li>Even better optimized, way less jank</li>
+    <li>The modpack is shipped with even saner defaults</li>
+    <li>Client* & Server (* = Singleplayer worlds don't save due to long worldgen times)</li>
+    <li><s>LAN Forwarding</s></li>
+    <li>Still "No Dragons or Guns", we try to keep the modpack feeling Minecraft-y even with content mods</li>
 </div>
