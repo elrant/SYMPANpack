@@ -1,0 +1,14 @@
+name = "Sodium Shadowy Path Blocks"
+filename = "sodium-shadowy-path-blocks-3.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/EIa1eiMm/versions/lvRng8PE/sodium-shadowy-path-blocks-3.1.0.jar"
+hash-format = "sha512"
+hash = "d92c02d6f0e8336e79e5e87e82892612ad6f6f737b556933aebcd21313212226d6928da4144ba4261415315d0bd17159e279f9b1261106359d56f3dee2254189"
+
+[update]
+[update.modrinth]
+mod-id = "EIa1eiMm"
+version = "lvRng8PE"

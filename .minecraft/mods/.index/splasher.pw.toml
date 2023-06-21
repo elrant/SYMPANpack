@@ -1,0 +1,14 @@
+name = "Splasher!"
+filename = "splasher-1.19.3-4.0.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/4yIZUuyx/versions/a1hujDpl/splasher-1.19.3-4.0.4.jar"
+hash-format = "sha512"
+hash = "25985c7eb0b0a16879f2672c52cbdd7db014e44e26c12ae763b28424f2c3527d451f940fb55587567350b454d0714fa1f3ec09d3f5c070a4447e9111b30599e7"
+
+[update]
+[update.modrinth]
+mod-id = "4yIZUuyx"
+version = "a1hujDpl"

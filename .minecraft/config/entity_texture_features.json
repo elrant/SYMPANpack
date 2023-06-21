@@ -15,7 +15,7 @@
   "emissiveRenderMode": "DULL",
   "specialEmissiveShield": true,
   "alwaysCheckVanillaEmissiveSuffix": true,
-  "skinFeaturesEnabled": true,
+  "skinFeaturesEnabled": false,
   "skinFeaturesEnableTransparency": true,
   "skinFeaturesEnableFullTransparency": false,
   "tryETFTransparencyForAllSkins": false,

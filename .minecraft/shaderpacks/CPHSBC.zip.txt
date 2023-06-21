@@ -1,0 +1,3 @@
+#Wed Jun 21 20:10:50 CEST 2023
+Brightness=0.4
+Contrast=0.3
