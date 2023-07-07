@@ -1,14 +1,14 @@
 name = "Ding"
-filename = "Ding-1.19.3-Fabric-1.4.0.jar"
+filename = "Ding-1.19.3-Fabric-1.4.1.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/UEtTD3gP/versions/6Bn9MqI1/Ding-1.19.3-Fabric-1.4.0.jar"
+url = "https://cdn.modrinth.com/data/UEtTD3gP/versions/Tj9ygMOn/Ding-1.19.3-Fabric-1.4.1.jar"
 hash-format = "sha512"
-hash = "9ed133632ceb139edd115c05ffbf4ff8f3142518dd989222b722293d7b76c4ddb1c69d7f13c8674e63466224ace406c293f7797b8adbde55833325b1e54c419d"
+hash = "14aa4179c625b428e9dffe1925dced582e68e51b367bfd5002f806e0060b09d9f0aa141c9b17c2f2d4455672c785685d2d7fee3a79c2f1dd18093079fe9a4c87"
 
 [update]
 [update.modrinth]
 mod-id = "UEtTD3gP"
-version = "6Bn9MqI1"
+version = "Tj9ygMOn"

@@ -1,14 +1,14 @@
 name = "Language Reload"
-filename = "language-reload-1.5.7+1.19.3.jar"
+filename = "language-reload-1.5.8+1.19.3.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/wLBxyT2a/language-reload-1.5.7%2B1.19.3.jar"
+url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/esY5Y9BI/language-reload-1.5.8%2B1.19.3.jar"
 hash-format = "sha512"
-hash = "9750b408360f976d1c1b18c18ac17d491b2386a709f9309e3de370e3b6434823bcd7c3d6d920b7dff57b59463dc27f3a7a26bb104f942190b8452aa49a2849c8"
+hash = "1ac2311e3a78c9b643616f32239ac53de606e783ceabe05db30556892e500cc10daf83d7573ad7dab20426f24eb58c6c9bc7fbbb447242942f784997b8ed574f"
 
 [update]
 [update.modrinth]
 mod-id = "uLbm7CG6"
-version = "wLBxyT2a"
+version = "esY5Y9BI"

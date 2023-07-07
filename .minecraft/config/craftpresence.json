@@ -1,7 +1,7 @@
 {
   "_README": "https://gitlab.com/CDAGaming/CraftPresence/-/wikis/home",
   "_SOURCE": "https://gitlab.com/CDAGaming/CraftPresence",
-  "_schemaVersion": 5,
+  "_schemaVersion": 6,
   "_lastMCVersionId": 761,
   "generalSettings": {
     "detectATLauncherInstance": true,
@@ -190,13 +190,10 @@
     "enablePerGui": false,
     "enablePerItem": false,
     "enablePerEntity": false,
-    "renderTooltips": true,
     "formatWords": true,
     "debugMode": false,
     "verboseMode": false,
     "refreshRate": 2,
-    "roundSize": 3,
-    "includeExtraGuiClasses": false,
     "allowPlaceholderPreviews": false,
     "guiSettings": {
       "fallbackGuiIcon": "unknown",
@@ -446,7 +443,9 @@
     },
     "allowEndpointIcons": true,
     "serverIconEndpoint": "https://api.mcsrvstat.us/icon/{server.address != null ? server.address : server.address.raw}",
-    "playerSkinEndpoint": "https://mc-heads.net/avatar/{player.uuid.short != null ? player.uuid.short : player.name}"
+    "playerSkinEndpoint": "https://mc-heads.net/avatar/{player.uuid.short != null ? player.uuid.short : player.name}",
+    "allowDuplicatePackets": false,
+    "maxConnectionAttempts": 10
   },
   "accessibilitySettings": {
     "tooltipBackground": {
@@ -507,6 +506,7 @@
     "stripTranslationColors": false,
     "showLoggingInChat": false,
     "stripExtraGuiElements": false,
+    "renderTooltips": true,
     "configKeyCode": 92
   },
   "displaySettings": {
@@ -533,7 +533,8 @@
       "nyaambxr": "https://mc-heads.net/avatar/1e62bb1083854570b3ea33537de945e3",
       "sympanmc.net": "https://api.mcsrvstat.us/icon/sympanmc.net",
       "sympan.elrant.team": "https://api.mcsrvstat.us/icon/<map>",
-      "SYMPAN": "https://raw.githubusercontent.com/elrant/BRANDING/main/SYMPAN/Logo/PNG/LOGO%400.5x.png"
+      "SYMPAN": "https://raw.githubusercontent.com/elrant/BRANDING/main/SYMPAN/Logo/PNG/LOGO%400.5x.png",
+      "0.0.0.0": "https://api.mcsrvstat.us/icon/<map>"
     },
     "dynamicVariables": {
       "default": "Example Text",
