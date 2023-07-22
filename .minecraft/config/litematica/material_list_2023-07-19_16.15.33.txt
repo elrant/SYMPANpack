@@ -1,0 +1,98 @@
++-----------------------+-------+---------+-----------+
+| Material List for placement 'Unnamed'               |
++-----------------------+-------+---------+-----------+
+| Item                  | Total | Missing | Available |
++-----------------------+-------+---------+-----------+
+| Dirt                  | 18945 |   18945 |         0 |
+| Cobblestone           |  9284 |    9284 |         0 |
+| Stone Bricks          |  4884 |    4884 |         0 |
+| Stone                 |  3018 |    3018 |         0 |
+| Gravel                |  2372 |    2372 |         0 |
+| Grass Block           |  1954 |    1954 |         0 |
+| Water Bucket          |  1306 |      36 |         0 |
+| Stone Brick Slab      |  1216 |    1216 |         0 |
+| Sand                  |   919 |     919 |         0 |
+| Spruce Slab           |   840 |     840 |         0 |
+| Spruce Planks         |   623 |     623 |         0 |
+| Brick Stairs          |   540 |     540 |         0 |
+| Oak Leaves            |   540 |     540 |         0 |
+| Cobblestone Slab      |   477 |     477 |         0 |
+| Grass                 |   460 |     460 |         0 |
+| Stone Brick Stairs    |   437 |     437 |         0 |
+| Cracked Stone Bricks  |   392 |     392 |         0 |
+| Smooth Stone Slab     |   305 |     305 |         0 |
+| Cobblestone Wall      |   269 |     269 |         0 |
+| Torch                 |   188 |     188 |         0 |
+| Oak Fence             |   144 |     144 |         0 |
+| Cobblestone Stairs    |   123 |     123 |         0 |
+| Iron Bars             |   110 |     110 |         0 |
+| Mossy Stone Bricks    |   101 |     101 |         0 |
+| Red Carpet            |    87 |      87 |         0 |
+| Spruce Stairs         |    84 |      84 |         0 |
+| Glass Pane            |    81 |      81 |         0 |
+| Brown Carpet          |    80 |      80 |         0 |
+| Brick Slab            |    73 |      73 |         0 |
+| Gray Carpet           |    72 |      72 |         0 |
+| Mossy Cobblestone     |    70 |      70 |         0 |
+| Oak Log               |    69 |      69 |         0 |
+| Block of Quartz       |    57 |      57 |         0 |
+| Cyan Carpet           |    57 |      57 |         0 |
+| Bricks                |    54 |      54 |         0 |
+| Oak Pressure Plate    |    49 |      49 |         0 |
+| Clay                  |    39 |      39 |         0 |
+| Obsidian              |    37 |      37 |         0 |
+| Bookshelf             |    33 |      33 |         0 |
+| Flower Pot            |    23 |      23 |         0 |
+| Oak Door              |    22 |      22 |         0 |
+| Oak Sign              |    20 |      20 |         0 |
+| Light Blue Carpet     |    19 |      19 |         0 |
+| Light Gray Carpet     |    19 |      19 |         0 |
+| White Wool            |    18 |      18 |         0 |
+| Blue Carpet           |    17 |      17 |         0 |
+| Hopper                |    16 |      16 |         0 |
+| Hay Bale              |    14 |      14 |         0 |
+| Nether Brick Fence    |    14 |      14 |         0 |
+| Oak Trapdoor          |    12 |      12 |         0 |
+| Quartz Stairs         |    12 |      12 |         0 |
+| Red Bed               |    11 |      11 |         0 |
+| Oak Fence Gate        |    10 |      10 |         0 |
+| Cauldron              |     9 |       9 |         0 |
+| Nether Brick Slab     |     9 |       9 |         0 |
+| Cut Sandstone         |     8 |       8 |         0 |
+| Fern                  |     8 |       8 |         0 |
+| Sandstone             |     8 |       8 |         0 |
+| Furnace               |     7 |       7 |         0 |
+| Jungle Leaves         |     7 |       7 |         0 |
+| Lily Pad              |     7 |       7 |         0 |
+| Netherrack            |     7 |       7 |         0 |
+| Oak Slab              |     7 |       7 |         0 |
+| Block of Coal         |     6 |       6 |         0 |
+| Blue Wool             |     6 |       6 |         0 |
+| Chiseled Stone Bricks |     6 |       6 |         0 |
+| Iron Door             |     6 |       6 |         0 |
+| Chiseled Quartz Block |     4 |       4 |         0 |
+| Glass                 |     4 |       4 |         0 |
+| Redstone Lamp         |     4 |       4 |         0 |
+| Redstone Torch        |     4 |       4 |         0 |
+| Chest                 |     3 |       3 |         0 |
+| Oak Stairs            |     3 |       3 |         0 |
+| Anvil                 |     2 |       2 |         0 |
+| Carved Pumpkin        |     2 |       2 |         0 |
+| Quartz Pillar         |     2 |       2 |         0 |
+| Quartz Slab           |     2 |       2 |         0 |
+| Stone Pressure Plate  |     2 |       2 |         0 |
+| Wither Skeleton Skull |     2 |       2 |         0 |
+| Brewing Stand         |     1 |       1 |         0 |
+| Crafting Table        |     1 |       1 |         0 |
+| Dandelion             |     1 |       1 |         0 |
+| End Stone             |     1 |       1 |         0 |
+| Green Carpet          |     1 |       1 |         0 |
+| Jukebox               |     1 |       1 |         0 |
+| Lever                 |     1 |       1 |         0 |
+| Poppy                 |     1 |       1 |         0 |
+| Purple Carpet         |     1 |       1 |         0 |
+| Trapped Chest         |     1 |       1 |         0 |
+| Zombie Head           |     1 |       1 |         0 |
++-----------------------+-------+---------+-----------+
+| Item                  | Total | Missing | Available |
++-----------------------+-------+---------+-----------+

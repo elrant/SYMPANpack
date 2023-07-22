@@ -21,7 +21,7 @@ randomRate = 'Both'
 # Click  - Reload when clicking on the splash text
 # Both   - Reload both at reloading and clicking
 
-splashMode = 'Vanilla'
+splashMode = 'Custom'
 # Controls the splash text contents
 
 # Disabled - Disable splash texts

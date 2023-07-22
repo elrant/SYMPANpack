@@ -1,0 +1,44 @@
+{
+  "selections": {
+    "mode": "SIMPLE",
+    "current": "/home/nyaambxr/.local/share/PrismLauncher/instances/SYMPAN pack 17/.minecraft/config/litematica/area_selections_per_world/tu19_tutorial_world/area_selections/Castle.json"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "AREA_SELECTION",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          63,
+          58,
+          -36
+        ],
+        "pos2": [
+          145,
+          122,
+          -116
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

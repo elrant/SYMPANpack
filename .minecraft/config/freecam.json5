@@ -6,7 +6,7 @@
 	"noClip": false,
 	"disableOnDamage": true,
 	"allowInteract": true,
-	"freezePlayer": true,
+	"freezePlayer": false,
 	"showPlayer": true,
 	"showHand": false,
 	"notifyFreecam": true,

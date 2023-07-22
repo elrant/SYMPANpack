@@ -1,4 +1,6 @@
 {
-  "enableOnIp": [],
+  "enableOnIp": [
+    "sympan.serv.nu"
+  ],
   "disableOnIp": []
 }

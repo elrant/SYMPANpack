@@ -534,7 +534,8 @@
       "sympanmc.net": "https://api.mcsrvstat.us/icon/sympanmc.net",
       "sympan.elrant.team": "https://api.mcsrvstat.us/icon/<map>",
       "SYMPAN": "https://raw.githubusercontent.com/elrant/BRANDING/main/SYMPAN/Logo/PNG/LOGO%400.5x.png",
-      "0.0.0.0": "https://api.mcsrvstat.us/icon/<map>"
+      "0.0.0.0": "https://api.mcsrvstat.us/icon/<map>",
+      "sympan.serv.nu": "https://api.mcsrvstat.us/icon/<map>"
     },
     "dynamicVariables": {
       "default": "Example Text",

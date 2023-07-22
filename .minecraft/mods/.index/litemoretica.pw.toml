@@ -1,0 +1,14 @@
+name = "Litemoretica"
+filename = "litemoretica-mc1.19.4-1.2.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/OYR5DMCo/versions/aclBuCQn/litemoretica-mc1.19.4-1.2.1.jar"
+hash-format = "sha512"
+hash = "cb68a676d76be38b908a2838e512e54c393198c3c3e6af7831c5dec40e4fc79abbef4bf4e05d43f725e8199bf4aa7e08c228176f4c0d05e648fd569c45fb9c33"
+
+[update]
+[update.modrinth]
+mod-id = "OYR5DMCo"
+version = "aclBuCQn"
