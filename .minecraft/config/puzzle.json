@@ -3,7 +3,7 @@
   "enablePuzzleButton": true,
   "debugMessages": false,
   "checkUpdates": true,
-  "showPuzzleInfo": true,
+  "showPuzzleInfo": false,
   "resourcepackSplashScreen": true,
   "unlimitedRotations": true,
   "biggerModels": true,

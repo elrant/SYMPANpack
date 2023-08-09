@@ -1,0 +1,5 @@
+#Fri Jul 28 12:17:02 CEST 2023
+taaEnabled=false
+outlineShimmerToggle=true
+motionblurToggle=false
+imageSharpenEnabled=false

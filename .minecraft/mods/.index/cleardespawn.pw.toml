@@ -1,14 +1,14 @@
-name = "ClearDespawn"
-filename = "ClearDespawn-fabric-1.19.2-1.1.10.jar"
+name = "Clear Despawn"
+filename = "ClearDespawn-fabric-1.19.2-1.1.11.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/yoJJjRRE/versions/tol35oV4/ClearDespawn-fabric-1.19.2-1.1.10.jar"
+url = "https://cdn.modrinth.com/data/yoJJjRRE/versions/RynPxbsG/ClearDespawn-fabric-1.19.2-1.1.11.jar"
 hash-format = "sha512"
-hash = "1e5e28d324b988c4748343c1bea77c18f96119ac398bde573f0feb734fbe18be3f888d8934d43e19178a95e4feb9495f415358091ce4523df44a8198f8f975d5"
+hash = "998b9ecca391469a6abc77764e2680d174cfda23807de8bfff37bfa618275729c2ec4954fd26ecafda140ecc9d5dfc3d24d7074294a7154360c648e66f791810"
 
 [update]
 [update.modrinth]
 mod-id = "yoJJjRRE"
-version = "tol35oV4"
+version = "RynPxbsG"

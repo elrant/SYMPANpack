@@ -29,8 +29,8 @@
   "unfocusedInput": true,
   "virtualMouse": false,
   "virtualMouseSkin": "SECOND_LIGHT",
-  "controllerID": 0.0,
-  "secondControllerID": -1.0,
+  "controllerID": 0,
+  "secondControllerID": -1,
   "controllerType": "XBOX_360",
   "mouseScreens": [
     "me.jellysquid.mods.sodium.client.gui",
@@ -56,7 +56,9 @@
   "wasdScreens": [
     "com.ultreon.devices.core.Laptop"
   ],
-  "BINDING": {},
+  "BINDING": {
+    "controller.controls.forward": "101"
+  },
   "maxAnalogValues": [
     0.75,
     0.75,

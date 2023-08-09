@@ -20,7 +20,7 @@
   "easiercrafting.config.guiright": {
     "key": "easiercrafting.config.guiright",
     "toolTip": "easiercrafting.config.tt.guiright",
-    "value": true,
+    "value": false,
     "defaultValue": true
   },
   "easiercrafting.config.categorize": {

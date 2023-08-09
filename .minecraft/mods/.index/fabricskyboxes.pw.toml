@@ -1,14 +1,14 @@
 name = "FabricSkyBoxes"
-filename = "fabricskyboxes-0.6.5+mc1.19.3.jar"
+filename = "fabricskyboxes-0.7.2+mc1.19.3.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/EZF3YEvO/fabricskyboxes-0.6.5%2Bmc1.19.3.jar"
+url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/31hyXcYO/fabricskyboxes-0.7.2%2Bmc1.19.3.jar"
 hash-format = "sha512"
-hash = "a6b8fc1e7fdbb4f044068ba83caa81c25873c787b8636c7a52f23ef9a5c7ab8f0a437289cc40bb328c5defc3346b2ed30e40799c48f0c58b99b837c8ed8cbf47"
+hash = "892487a0fb5c6a435143d004d23d89d12e3392e56c3b40025fb04d819655cf2bdaad42c6205a4c01e2cf7623c985c20c020693f8388d092ca752fbce9d1b0272"
 
 [update]
 [update.modrinth]
 mod-id = "YBz7DOs8"
-version = "EZF3YEvO"
+version = "31hyXcYO"
