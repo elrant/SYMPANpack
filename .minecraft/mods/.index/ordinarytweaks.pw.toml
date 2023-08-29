@@ -1,14 +1,14 @@
 name = "SomeOrdinaryTweaks"
-filename = "some-ordinary-tweaks-1.6.6+1.19.3.jar"
+filename = "some-ordinary-tweaks-1.7.0+1.20-alpha.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/LNeXYJOg/versions/9LFhWArv/some-ordinary-tweaks-1.6.6%2B1.19.3.jar"
+url = "https://cdn.modrinth.com/data/LNeXYJOg/versions/BrhmZQDc/some-ordinary-tweaks-1.7.0%2B1.20-alpha.jar"
 hash-format = "sha512"
-hash = "7925d3434029caef0ed3b17269926ccecfd8c160096f089dba120ae44b9b4aabee82b9e9eaa15a2a6f84211df56d50a58caf2f4f143d18bb71f5c35119ff4a31"
+hash = "5167479e01b6b294adcd2a4bb90348b187b8b3bbcc9e27ad0409d41d44d64191b7b93d2236eeb25ac00af8dcfc831c4ed9cd066abd83a1e192affc95eb318568"
 
 [update]
 [update.modrinth]
 mod-id = "LNeXYJOg"
-version = "9LFhWArv"
+version = "BrhmZQDc"

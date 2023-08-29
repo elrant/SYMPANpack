@@ -1,14 +1,14 @@
 name = "BedrockIfy"
-filename = "bedrockify-1.6.1+mc1.19.3.jar"
+filename = "bedrockify-1.9+mc1.20.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/ox3rDp1B/versions/YNhlWPSc/bedrockify-1.6.1%2Bmc1.19.3.jar"
+url = "https://cdn.modrinth.com/data/ox3rDp1B/versions/rg80ifk9/bedrockify-1.9%2Bmc1.20.jar"
 hash-format = "sha512"
-hash = "69c82e47c3160de72b788b8fe6e868afd2eceabff1fb7bb69953923bb7f051225c3fc28c877ea89a9fd9b4bcf0af7138f6b404b27d056d02b3ed46149d9fef36"
+hash = "679e15f02a12c8890aa19775b916cee135d2073bace4507269927f7a124d9ba03ef996d467b00ae660ae653954d65456ef0e7358933257e7da357f276bf14851"
 
 [update]
 [update.modrinth]
 mod-id = "ox3rDp1B"
-version = "YNhlWPSc"
+version = "rg80ifk9"

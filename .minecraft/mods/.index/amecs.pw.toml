@@ -1,14 +1,14 @@
 name = "Amecs"
-filename = "amecs-1.3.9+mc.1.19.3.jar"
+filename = "amecs-1.3.9+mc.1.20.1.jar"
 side = "both"
 
 [download]
 mode = "metadata:curseforge"
 url = ""
 hash-format = "sha1"
-hash = "096856fa7df8c4eba16b3120406cad5b4df1cacd"
+hash = "9c6b9f99c12cb1209f39cf83dabe05b9f4cbdd24"
 
 [update]
 [update.curseforge]
-file-id = 4542067
+file-id = 4679250
 project-id = 324564

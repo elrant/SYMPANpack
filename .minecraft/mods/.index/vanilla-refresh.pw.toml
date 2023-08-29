@@ -4,11 +4,11 @@ side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/gWO6Zqey/versions/6L2svftd/vanilla-refresh-1.4.16h.jar"
+url = "https://cdn.modrinth.com/data/gWO6Zqey/versions/3d2J8EKu/vanilla-refresh-1.4.16h.jar"
 hash-format = "sha512"
-hash = "e2d9764251431dd19e3f96d39147562e9ba67f169ebbb39dc6ce28bc8b0a35570926a597fdeac8cbbf5a761e4846411f225bfad09a0711da17f32c8f5811c86f"
+hash = "2a44fc0810508d6671ba7d2f89bdb78e29e3b210b7f2d876eadc7607c1914d4b9ce1930e56783a476349e284333cc9a94b9eb9aec54378ba981c727df05f942d"
 
 [update]
 [update.modrinth]
 mod-id = "gWO6Zqey"
-version = "6L2svftd"
+version = "3d2J8EKu"

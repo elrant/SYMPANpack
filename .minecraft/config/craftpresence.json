@@ -2,13 +2,14 @@
   "_README": "https://gitlab.com/CDAGaming/CraftPresence/-/wikis/home",
   "_SOURCE": "https://gitlab.com/CDAGaming/CraftPresence",
   "_schemaVersion": 6,
-  "_lastMCVersionId": 761,
+  "_lastMCVersionId": 763,
   "generalSettings": {
     "detectATLauncherInstance": true,
     "detectCurseManifest": true,
     "detectMultiMCManifest": false,
     "detectMCUpdaterInstance": true,
     "detectTechnicPack": false,
+    "detectModrinthPack": true,
     "detectBiomeData": true,
     "detectDimensionData": true,
     "detectWorldData": true,
@@ -525,7 +526,8 @@
       "sympan.elrant.team": "https://api.mcsrvstat.us/icon/<map>",
       "SYMPAN": "https://raw.githubusercontent.com/elrant/BRANDING/main/SYMPAN/Logo/PNG/LOGO%400.5x.png",
       "0.0.0.0": "https://api.mcsrvstat.us/icon/<map>",
-      "sympan.serv.nu": "https://api.mcsrvstat.us/icon/<map>"
+      "sympan.serv.nu": "https://api.mcsrvstat.us/icon/<map>",
+      "5.161.126.146": "https://api.mcsrvstat.us/icon/<map>"
     },
     "dynamicVariables": {
       "default": "Example Text",

@@ -1,14 +1,14 @@
 name = "HealthIndicator"
-filename = "healthindicator-1.1.0+mc1.19.3.jar"
+filename = "healthindicator-1.1.0+mc1.20.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/gVFdvNDw/versions/QkdVhzzF/healthindicator-1.1.0%2Bmc1.19.3.jar"
+url = "https://cdn.modrinth.com/data/gVFdvNDw/versions/57Oo0LdR/healthindicator-1.1.0%2Bmc1.20.jar"
 hash-format = "sha512"
-hash = "84b4df4c1cc2fafc973e17c5a2d4b797e87e6da45deab71b49ed828d91e613cc08b8cf9177f3b4e5a5edc09f9f1d8b0cec89032a280d00eefa47e476e28833ba"
+hash = "483d5b2fdae931b6e10b6c4502fa2d9690e8e66f6b525eb8843d82e174831c8f615b518fdd1f6e9f235dc24c8ed9795fa057c1dfd5153d6df88e729fd882503e"
 
 [update]
 [update.modrinth]
 mod-id = "gVFdvNDw"
-version = "QkdVhzzF"
+version = "57Oo0LdR"

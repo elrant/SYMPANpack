@@ -1,14 +1,14 @@
 name = "ServerRPExposer"
-filename = "ServerRPExposer-1.0.1.jar"
+filename = "ServerRPExposer-1.0.2.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/ETWTxHAk/versions/3ZJtzbgF/ServerRPExposer-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/ETWTxHAk/versions/3govBDEh/ServerRPExposer-1.0.2.jar"
 hash-format = "sha512"
-hash = "8eef7e87164960dd74433aaa18e2f36159493240d6788d6027ebf4030285d0454b8ebef8a61d96c04e414c5009c2fb6e78e36faaa91d6a31e08d7682979425e5"
+hash = "a72d72b6bb1eaa97d63d41078564f18b607fe5451306fe2d9b7c54ad006fabf7cca46212c02abf634ed61920d37e946627b937ab07d891208eab24e79ad23c58"
 
 [update]
 [update.modrinth]
 mod-id = "ETWTxHAk"
-version = "3ZJtzbgF"
+version = "3govBDEh"

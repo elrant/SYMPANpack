@@ -1,0 +1,77 @@
+// This JSON file has written by Lyan (@synteen). Please do not use this document without permission.
+
+{
+    // LANGUAGE
+    "language.name":"English",
+    "language.region":"United States",
+    "language.code":"en_us",
+
+    // TITLE
+    "title.multiplayer.lan": "LAN",
+    "title.multiplayer.other": "Third-party servers",
+    "title.multiplayer.realms": "Realms",
+
+    // MENU
+    "menu.singleplayer": "Play Game",
+    "menu.multiplayer": "Online",
+    "multiplayer.title": "Online",
+    "menu.online": "Realms",
+    "menu.options": "Help & Options",
+    "menu.quit": "Exit Game",
+    // PAUSE
+    "menu.game": "Menu",
+    "menu.returnToGame": "Resume",
+    "gui.advancements": "Advancements",
+    "gui.stats": "Statistics",
+    "menu.sendFeedback": "Opinions",
+    "menu.reportBugs": "Errors",
+    "menu.shareToLan": "LAN",
+    "menu.returnToMenu": "Save and exit",
+    "menu.disconnect": "Disconnect",
+    "menu.savingLevel": "Saving and leaving the world. Please wait...",
+
+    // OPTIONS
+    "options.title": "Help & Options",
+    "options.fov": "FOV",
+    "options.skinCustomisation": "Skin",
+    "options.skinCustomisation.title": "Skin customization",
+    "options.video": "Video settings",
+    "options.videoTitle": "Video settings",
+    "options.particles.all": "All",
+    "options.particles.decreased": "Decreased",
+    "options.particles.minimal": "Minimal",
+    "options.viewBobbing": "View Bobbing",
+    "options.language": "Language",
+    "options.resourcepack": "Resource packs",
+    "options.sounds": "Music & Sounds",
+    "options.sounds.title": "Volume of Music & Sounds",
+    "options.chat.title": "Chat",
+    "options.controls": "Controls",
+    "options.mouse_settings": "Mouse settings",
+    "options.mouse_settings.title": "Mouse settings",
+    "options.accessibility.title": "Help",
+
+    // GAME
+    "selectWorld.title": "Search world",
+    "selectWorld.select": "Play",
+    "deathScreen.titleScreen": "Exit to menu",
+
+    // BLOCKS
+    "block.minecraft.white_terracotta": "White Hardened Clay",
+    "block.minecraft.orange_terracotta": "Orange Hardened Clay",
+    "block.minecraft.magenta_terracotta": "Magenta Hardened Clay",
+    "block.minecraft.light_blue_terracotta": "Light Blue Hardened Clay",
+    "block.minecraft.yellow_terracotta": "Yellow Hardened Clay",
+    "block.minecraft.lime_terracotta": "Lime Hardened Clay",
+    "block.minecraft.pink_terracotta": "Pink Hardened Clay",
+    "block.minecraft.gray_terracotta": "Gray Hardened Clay",
+    "block.minecraft.light_gray_terracotta": "Light Gray Hardened Clay",
+    "block.minecraft.cyan_terracotta": "Cyan Hardened Clay",
+    "block.minecraft.purple_terracotta": "Purple Hardened Clay",
+    "block.minecraft.blue_terracotta": "Blue Hardened Clay",
+    "block.minecraft.brown_terracotta": "Brown Hardened Clay",
+    "block.minecraft.green_terracotta": "Green Hardened Clay",
+    "block.minecraft.red_terracotta": "Red Hardened Clay",
+    "block.minecraft.black_terracotta": "Black Hardened Clay",
+    "block.minecraft.terracotta": "Hardened Clay"
+}

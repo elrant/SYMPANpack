@@ -5,6 +5,10 @@
   "fullBright": false,
   "disableScoreboard": false,
   "offHandSlotLoc": "VANILA",
+  "opacitySettings": {
+    "nameTagOpacity": "VANILLA",
+    "textDisplayOpacity": "VANILLA"
+  },
   "hideTutorialToasts": true,
   "hideAdvancementToasts": false,
   "hideRecipeUnlockToasts": true,

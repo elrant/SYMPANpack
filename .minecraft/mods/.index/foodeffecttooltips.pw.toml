@@ -1,14 +1,14 @@
 name = "Food Effect Tooltips"
-filename = "foodeffecttooltips-1.1.1-1.19.3.jar"
+filename = "foodeffecttooltips-1.1.1-1.20.0.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/GGfyJWnG/versions/kjJrRUBm/foodeffecttooltips-1.1.1-1.19.3.jar"
+url = "https://cdn.modrinth.com/data/GGfyJWnG/versions/aJiMrtqD/foodeffecttooltips-1.1.1-1.20.0.jar"
 hash-format = "sha512"
-hash = "e0ca73fc73e217b78a64c3053df80e6d397f499b9b3d3c07b76b6c3ab90af87e1285ee40a14c073866895b59d88e4144b8c35bbd6d1adc41b809cee798e18de2"
+hash = "caa3aaa43ce1e915e08545dc36f6842535b7ea3a501ea52a62190ed8c814b78b69a83790660fb2f0a333c6b64fbfc96a2393b5eb9eff465cf7b1469e35cb36d5"
 
 [update]
 [update.modrinth]
 mod-id = "GGfyJWnG"
-version = "kjJrRUBm"
+version = "aJiMrtqD"

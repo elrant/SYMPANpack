@@ -1,0 +1,14 @@
+name = "AudioPlayer"
+filename = "audioplayer-1.20.1-1.7.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/SRlzjEBS/versions/IgVHamWI/audioplayer-1.20.1-1.7.0.jar"
+hash-format = "sha512"
+hash = "5a49576d368c50a9addde340239388933fe9ae82d48c0e2c3986ff422fa81346536d5900acbd7c726151abf56c259bc99fb39b8125826c5d1b402dc2fdc134c8"
+
+[update]
+[update.modrinth]
+mod-id = "SRlzjEBS"
+version = "IgVHamWI"
