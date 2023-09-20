@@ -1,0 +1,14 @@
+name = "TerraBlender"
+filename = "TerraBlender-fabric-1.20.1-3.0.0.169.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/kkmrDlKT/versions/CMDA8IcP/TerraBlender-fabric-1.20.1-3.0.0.169.jar"
+hash-format = "sha512"
+hash = "55c30c90b2edf10684b4f836ecbf490165bc92749eb0bcf3bb7789b290856627c50bb7bd8114679611a02a8c2a7048ed7ac714bc1408b4fca1640ec1bb9ca160"
+
+[update]
+[update.modrinth]
+mod-id = "kkmrDlKT"
+version = "CMDA8IcP"

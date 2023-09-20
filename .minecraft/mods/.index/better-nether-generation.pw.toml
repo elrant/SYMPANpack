@@ -3,12 +3,12 @@ filename = "Better Nether Generation-256blocks-1-20.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/yJYb14Sx/versions/NkIgGA9B/Better Nether Generation-256blocks-1-20.jar"
-hash-format = "sha512"
-hash = "43e6acacac9deb0a583d5217e844a8b47d3f563ec3dda88872d789007074337c0fef77ae27e7b50d2a857132a9d1cfcf57c5cd6dce20d36713dcce78081a4340"
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "9457b98b69426e5e0507904b5cc6fa8f68c93877"
 
 [update]
-[update.modrinth]
-mod-id = "yJYb14Sx"
-version = "NkIgGA9B"
+[update.curseforge]
+file-id = 4633376
+project-id = 713941

@@ -1,14 +1,14 @@
 name = "Create: Steam 'n' Rails"
-filename = "Steam_Rails-1.5.0+fabric-mc1.20.1-build.15.jar"
+filename = "Steam_Rails-1.5.1+fabric-mc1.20.1.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/ZzjhlDgM/versions/TQd7SsHW/Steam_Rails-1.5.0%2Bfabric-mc1.20.1-build.15.jar"
+url = "https://cdn.modrinth.com/data/ZzjhlDgM/versions/vVIvVuGn/Steam_Rails-1.5.1%2Bfabric-mc1.20.1.jar"
 hash-format = "sha512"
-hash = "b331a779dff176b2ab2be9174b627facf4cee19af242b8af30f2ebc31f3406bc45cac052f5c31e79b316857fa662d5d027e0022459ab9b984745411636e2d407"
+hash = "c8bb882a2a636b129e33c2fe2ea9a3e84e684646a3627dcf57579d04af4798e1d2a195ee8b8037a3a067b806197a7bacd400bf4676daa2dd14dfce1e2f30d554"
 
 [update]
 [update.modrinth]
 mod-id = "ZzjhlDgM"
-version = "TQd7SsHW"
+version = "vVIvVuGn"

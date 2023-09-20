@@ -1,14 +1,14 @@
 name = "AudioPlayer"
-filename = "audioplayer-1.20.1-1.7.0.jar"
+filename = "audioplayer-1.20.1-1.8.1.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/SRlzjEBS/versions/IgVHamWI/audioplayer-1.20.1-1.7.0.jar"
+url = "https://cdn.modrinth.com/data/SRlzjEBS/versions/dyAoCTEw/audioplayer-1.20.1-1.8.1.jar"
 hash-format = "sha512"
-hash = "5a49576d368c50a9addde340239388933fe9ae82d48c0e2c3986ff422fa81346536d5900acbd7c726151abf56c259bc99fb39b8125826c5d1b402dc2fdc134c8"
+hash = "67b7a60bb008c9cf514d4bdacb8595219eceb6e2a25d56928faf80b8fcc15861c2e784d17e68c40f5914f3f26c30d40c280423713c8f058937d3ea8ee7272f78"
 
 [update]
 [update.modrinth]
 mod-id = "SRlzjEBS"
-version = "IgVHamWI"
+version = "dyAoCTEw"

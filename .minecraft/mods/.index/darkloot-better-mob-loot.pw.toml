@@ -1,0 +1,14 @@
+name = "DarkLoot - Better Mob Loot & Heads (Fabric/Forge)"
+filename = "darkloot-fabric-1.20.1-1.1.7.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "0697ed3ce284a5178ea579f8207a78d52cbe38cf"
+
+[update]
+[update.curseforge]
+file-id = 4732981
+project-id = 677987

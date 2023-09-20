@@ -42,9 +42,9 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "cachedVersion": "0.20.1",
+            "cachedVersion": "0.20.2",
             "uid": "org.quiltmc.quilt-loader",
-            "version": "0.20.1"
+            "version": "0.20.2"
         }
     ],
     "formatVersion": 1

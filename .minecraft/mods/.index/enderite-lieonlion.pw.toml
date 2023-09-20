@@ -1,0 +1,14 @@
+name = "LieOnLion's Enderite"
+filename = "Enderite-2.0.0-beta.2+1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/X4XNSWNM/versions/mHUCDMyI/Enderite-2.0.0-beta.2%2B1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "c00457bedeb68c5a5866b1f8b75fcfeda1a71083572454abd7ca8861811266eddda107806fca38576bb9f64367f8476fbd823d9e15cbc720012d8e78c8d69ddd"
+
+[update]
+[update.modrinth]
+mod-id = "X4XNSWNM"
+version = "mHUCDMyI"

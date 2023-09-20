@@ -1,0 +1,14 @@
+name = "Nether 3.0"
+filename = "nether-3.0-3.51.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/NN2zkde6/versions/UH6Y80SO/nether-3.0-3.51.jar"
+hash-format = "sha512"
+hash = "9a5b224806f56c115c939c275e7e95ee000999ed86b854884bcc2f30e7aee43a96cf09dd69118fa62b7f82a53bc2015f9a63cf67c2cd69aead81b3ffeb0fec4e"
+
+[update]
+[update.modrinth]
+mod-id = "NN2zkde6"
+version = "UH6Y80SO"

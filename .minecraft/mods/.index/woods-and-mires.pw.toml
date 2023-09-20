@@ -1,0 +1,14 @@
+name = "Woods and Mires"
+filename = "WoodsAndMires-2.1.1+1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ks9RfXvV/versions/zG4Ar5Sv/WoodsAndMires-2.1.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "6a5864a33f47eefeaeb80073ec3faa0a7fb87a9b8858ec13108ca8c4256bddb81e056eef33a6a0f4b44df4fe6b724ed0796b5b49b291ef9df5a03b01e8dded3a"
+
+[update]
+[update.modrinth]
+mod-id = "ks9RfXvV"
+version = "zG4Ar5Sv"

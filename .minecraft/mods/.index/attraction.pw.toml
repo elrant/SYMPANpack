@@ -1,0 +1,14 @@
+name = "Attraction"
+filename = "attraction-1.3.1+1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/n8nEjHeP/versions/S1xHJdHN/attraction-1.3.1%2B1.20.jar"
+hash-format = "sha512"
+hash = "c491395017f8a1c10b88f2c0b140d9f23a19574489e4aeeefb7a1f8b3b1ff027dde132d89d376207bc90f14df24acf60e3469420a91ced74757bccffe4209521"
+
+[update]
+[update.modrinth]
+mod-id = "n8nEjHeP"
+version = "S1xHJdHN"

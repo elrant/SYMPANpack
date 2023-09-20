@@ -1,0 +1,14 @@
+name = "Many More Structures"
+filename = "more_structures_mod-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Bc9gilLM/versions/YBosL6zb/more_structures_mod-1.20.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "f8ab6246f96dc16eb5c4071e2b8f9b38f61a5912249d184d9dbe4daa41f1b94c079152698746c43b02c255972b4bdddab9582cff49344ae9b503702829a123b5"
+
+[update]
+[update.modrinth]
+mod-id = "Bc9gilLM"
+version = "YBosL6zb"

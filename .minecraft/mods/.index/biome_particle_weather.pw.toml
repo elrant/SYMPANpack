@@ -1,0 +1,14 @@
+name = "Biome Particle Weather"
+filename = "BiomeParticleWeather-v4.0.6-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/XH09j5fH/versions/xYGKT64I/BiomeParticleWeather-v4.0.6-1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "31ca717560322a580cc350cbe0418569d914566552fdc649502abae58594b91ea571e5b0a84b63861353d1dfabd81c685b8de03b4cc92d0ef1c902332265a920"
+
+[update]
+[update.modrinth]
+mod-id = "XH09j5fH"
+version = "xYGKT64I"

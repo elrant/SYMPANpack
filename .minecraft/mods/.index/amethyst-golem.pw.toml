@@ -1,0 +1,14 @@
+name = "Amethyst Golem Refreshed"
+filename = "amethyst-golem-1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/PG4IZfbi/versions/6vXcRrqp/amethyst-golem-1.0.jar"
+hash-format = "sha512"
+hash = "3bdaeed19f9e384144ee0905d51b854b0ebd7e6a3ec345776c2270eab43ee64ce7e8c940334d5f1d3c519187af3168f65936d63eb10772a0201065b57511fa44"
+
+[update]
+[update.modrinth]
+mod-id = "PG4IZfbi"
+version = "6vXcRrqp"

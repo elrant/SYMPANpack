@@ -1,0 +1,14 @@
+name = "Mobs On Rails"
+filename = "mobsonrails-1.0.0 fabric-1.19.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/SjNPcWNX/versions/RiQEKcFc/mobsonrails-1.0.0 fabric-1.19.4.jar"
+hash-format = "sha512"
+hash = "b26199193e499a06baccf4adafd69cb70380637f54e48bc93947dabfa765048ffe7dd21472a012015f976069e42d112b9ba3bd766693a2c5f9eed2541afe5b12"
+
+[update]
+[update.modrinth]
+mod-id = "SjNPcWNX"
+version = "RiQEKcFc"

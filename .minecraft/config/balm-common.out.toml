@@ -1,5 +1,8 @@
 [customization]
 
+# Items that count as fireworks for the offhand-firework tweak options.
+fireworkItems = [ "minecraft:firework_rocket" ]
+
 # Items that count as shields for the offhand-shield hiding tweak options.
 shieldItems = [ 
     "basicshields:wooden_shield", 
@@ -54,6 +57,9 @@ masterVolumeSlider = true
 
 # This adds back the music volume slider to the options screen. Saves you a click!
 musicVolumeSlider = true
+
+# This prevents fireworks from being launched from your off hand if you are wearing an Elytra, unless you're flying.
+noOffhandFireworksWithElytra = true
 
 # This prevents torches from being placed from your offhand at all.
 noOffhandTorchAtAll = false

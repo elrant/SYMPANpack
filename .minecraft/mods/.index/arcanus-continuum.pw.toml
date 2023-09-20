@@ -1,0 +1,14 @@
+name = "Arcanus: Continuum"
+filename = "arcanus-continuum-0.100.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/UnnRjucf/versions/QR6ickd3/arcanus-continuum-0.100.2.jar"
+hash-format = "sha512"
+hash = "fb34449699112ca39c95d3624ef63c81becb6c0630f854f84790bc0aa8ddfc45dca3e19d930f03a6856a6f207401b57323b165ffdeb0e76bbfd9fd812efa89fa"
+
+[update]
+[update.modrinth]
+mod-id = "UnnRjucf"
+version = "QR6ickd3"

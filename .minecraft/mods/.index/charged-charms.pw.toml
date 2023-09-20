@@ -1,0 +1,14 @@
+name = "Charged Charms"
+filename = "chargedcharms-1.20.1-2.0.0.4-FABRIC.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/cqzqfZKX/versions/3sp4esvm/chargedcharms-1.20.1-2.0.0.4-FABRIC.jar"
+hash-format = "sha512"
+hash = "b748b552ba063bd83918bac8adfb43119118406bcc951278f28b5e6fb2b8cb469cf708586bd0dcb6e6c12bb2edc862bb9ad7b1b37e3edc4c138c202f7cf008d8"
+
+[update]
+[update.modrinth]
+mod-id = "cqzqfZKX"
+version = "3sp4esvm"

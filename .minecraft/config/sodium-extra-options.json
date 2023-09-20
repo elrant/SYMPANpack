@@ -31,6 +31,7 @@
       "minecraft:overworld": 0,
       "minecraft:the_nether": 0
     },
+    "use_linear_flat_color_blender": false,
     "light_updates": true,
     "item_frame": true,
     "armor_stand": true,
@@ -53,7 +54,7 @@
     "toasts": true,
     "advancement_toast": true,
     "recipe_toast": false,
-    "system_toast": true,
+    "system_toast": false,
     "tutorial_toast": false,
     "instant_sneak": false,
     "prevent_shaders": false,

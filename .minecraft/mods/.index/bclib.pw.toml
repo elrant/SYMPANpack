@@ -1,0 +1,14 @@
+name = "BCLib"
+filename = "bclib-3.0.13.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/BgNRHReB/versions/bccqbyya/bclib-3.0.13.jar"
+hash-format = "sha512"
+hash = "ece143b42d6a56015131451a1c6fec0137b3c1754e22453f8f55ca1f17070ddd009279b48eab531e598c7fd47376405b27e3306156634a019de87320ce53f876"
+
+[update]
+[update.modrinth]
+mod-id = "BgNRHReB"
+version = "bccqbyya"

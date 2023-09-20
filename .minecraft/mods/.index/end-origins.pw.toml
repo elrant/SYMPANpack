@@ -1,0 +1,14 @@
+name = "End Origins"
+filename = "endorigins20.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "e001cc44e6a0af3767be3227c2f6a7ffe2606ccb"
+
+[update]
+[update.curseforge]
+file-id = 4733304
+project-id = 570150

@@ -1,0 +1,14 @@
+name = "Ecospherical Expansion"
+filename = "eco-1.20.1-2.2.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/WtcuxDNN/versions/7anm7tFR/eco-1.20.1-2.2.0.jar"
+hash-format = "sha512"
+hash = "c5bb179a59e7c08bf90ee7c7d844c8457fde7caf5858e8442eede24c1706ba476bc76439e54ac8c604a15b9418e21718b2fac3d0fbfe3e40314ba1fbf8c9daf4"
+
+[update]
+[update.modrinth]
+mod-id = "WtcuxDNN"
+version = "7anm7tFR"

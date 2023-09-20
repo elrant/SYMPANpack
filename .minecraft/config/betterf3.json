@@ -104,7 +104,8 @@
 				"underground_water_creature": true,
 				"water_creature": true,
 				"water_ambient": true,
-				"misc": true
+				"misc": true,
+				"glares": true
 			}
 		}, 
 		{
@@ -165,6 +166,7 @@
 				"cpu": true,
 				"display": true,
 				"gpu": true,
+				"gpu_utilization": true,
 				"opengl_version": true,
 				"gpu_driver": true
 			}
@@ -188,7 +190,7 @@
 		}
 	],
 	"general": {
-		"disable_mod": true,
+		"disable_mod": false,
 		"auto_start": false,
 		"space_modules": true,
 		"shadow_text": true,
