@@ -67,12 +67,7 @@
     "customSchematicBaseDirectory": "/home/nyaambxr/.local/share/PrismLauncher/instances/SYMPAN pack 17/.minecraft/schematics",
     "easyPlaceSwapInterval": 0,
     "pickBlockableSlots": "1,2,3,4,5",
-    "toolItem": "minecraft:stick",
-    "printingMode": true,
-    "printingInterval": 12,
-    "printingRange": 5.0,
-    "replaceFluidSourceBlocks": true,
-    "stripLogs": true
+    "toolItem": "minecraft:stick"
   },
   "Hotkeys": {
     "addSelectionBox": {
@@ -296,12 +291,6 @@
     },
     "schematicEditReplaceSelection": {
       "keys": ""
-    },
-    "print": {
-      "keys": "RIGHT_ALT,V"
-    },
-    "togglePrintingMode": {
-      "keys": "CAPS_LOCK"
     }
   },
   "InfoOverlays": {

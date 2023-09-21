@@ -1,0 +1,14 @@
+name = "SkinRestorer"
+filename = "skin-restorer-1.2.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ghrZDhGW/versions/kpyeSFpl/skin-restorer-1.2.3.jar"
+hash-format = "sha512"
+hash = "da53d3c504bd8cae169f6700287828fbf782a197bc5e3ab1f86294294705bc7a86c14edab0d52c3be4a6d8fa7726695ff5cfff0aafc89f2c9f24a9bb58e2b2b4"
+
+[update]
+[update.modrinth]
+mod-id = "ghrZDhGW"
+version = "kpyeSFpl"

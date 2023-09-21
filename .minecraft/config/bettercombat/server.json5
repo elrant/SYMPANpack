@@ -75,10 +75,10 @@
 	   (The first relation to be found for the target will be applied.)
 	*/
 	"player_relations": {
+		"minecraft:iron_golem": "NEUTRAL",
 		"minecraft:villager": "NEUTRAL",
 		"guardvillagers:guard": "NEUTRAL",
-		"minecraft:player": "NEUTRAL",
-		"minecraft:iron_golem": "NEUTRAL"
+		"minecraft:player": "NEUTRAL"
 	},
 	// Relation to unspecified entities those are instance of PassiveEntity(Yarn)
 	"player_relation_to_passives": "HOSTILE",

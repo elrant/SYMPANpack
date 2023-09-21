@@ -320,6 +320,9 @@ mode = "fastest"
 				magmacubefish = true
 				searing_cod = true
 
+			[light_sources.settings.entities.galosphere]
+				sparkle = true
+
 			[light_sources.settings.entities.graveyard]
 				acolyte = true
 				revenant = true
@@ -330,6 +333,7 @@ mode = "fastest"
 				nightmare = true
 
 			[light_sources.settings.entities.promenade]
+				capybara = true
 				duck = true
 				lush_creeper = true
 
@@ -340,17 +344,32 @@ mode = "fastest"
 				naga = true
 
 			[light_sources.settings.entities.earthtojavamobs]
-				bronzed_chicken = true
-				mottled_pig = true
 				piebald_pig = true
-				harelequin_rabbit = true
-				muddy_pig = true
 				dairy_cow = true
-				inky_sheep = true
-				cookie_cow = true
 				pink_footed_pig = true
+				flecked_sheep = true
+				cream_cow = true
+				skeleton_wolf = true
+				rainbow_sheep = true
+				mottled_pig = true
+				gold_crested_chicken = true
+				bold_striped_rabbit = true
+				muddy_pig = true
+				bouldering_zombie = true
+				ashen_cow = true
 				sooty_pig = true
 				patched_sheep = true
+				bronzed_chicken = true
+				stormy_chicken = true
+				harelequin_rabbit = true
+				horned_sheep = true
+				cookie_cow = true
+				rocky_sheep = true
+				pinto_cow = true
+				albino_cow = true
+				fancy_chicken = true
+				inky_sheep = true
+				skewbald_chicken = true
 				pale_pig = true
 
 			[light_sources.settings.entities.origins]

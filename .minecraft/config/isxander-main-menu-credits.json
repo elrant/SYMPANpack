@@ -1,13 +1,13 @@
 {
   "main_menu": {
-    "top_left": ["SYMPANpack","23.01"],
+    "top_left": ["SYMPANpack","23.02"],
     "top_right": [],
     "bottom_left": [],
     "bottom_right": ["Made with love by: irisnk"],
     "mod_blacklist": []
   },
   "pause_menu": {
-    "top_left": ["SYMPANpack","23.01"],
+    "top_left": ["SYMPANpack","23.02"],
     "top_right": [],
     "bottom_left": [],
     "bottom_right": ["Made with love by: irisnk"],
