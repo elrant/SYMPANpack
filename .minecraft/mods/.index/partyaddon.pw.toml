@@ -1,0 +1,13 @@
+filename = 'partyaddon-1.0.4.jar'
+name = 'PartyAddon'
+side = 'both'
+
+[download]
+hash = '2a9a3e2fc5313d9a02a24f9f1a9c5004094c3aff9f732cc3fc21581e593069f08117640fce8cfc5d56307692a381a9cbbcd71691d871e875046fd1e3e95d5103'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oRqU5wIm/versions/x7WiDSCL/partyaddon-1.0.4.jar'
+
+[update.modrinth]
+mod-id = 'oRqU5wIm'
+version = 'x7WiDSCL'

@@ -1,0 +1,13 @@
+filename = 'gear_core-0.3.6+1.20.1.jar'
+name = 'Gear Core'
+side = 'both'
+
+[download]
+hash = '9776f35b000ab11aed75d1cc4f89eb1efac973b82e71691a7c0d65338a3f41458b7b984c11cab6877851fe33e28dfe73d1906dad51ff980258788654044f50cb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/t7eXC8r7/versions/zsMQOVkQ/gear_core-0.3.6%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 't7eXC8r7'
+version = 'zsMQOVkQ'

@@ -127,7 +127,32 @@ mode = "fancy"
 				painting = true
 				wither = true
 
+			[light_sources.settings.entities.graveyard]
+				skeleton_creeper = true
+				ghoul = true
+				nightmare = true
+
+			[light_sources.settings.entities.promenade]
+				duck = true
+				lush_creeper = true
+
+			[light_sources.settings.entities.betternether]
+				firefly = true
+				hydrogen_jellyfish = true
+				skull = true
+				naga = true
+
+			[light_sources.settings.entities.levelz]
+				level_experience_orb = true
+
 			[light_sources.settings.entities.biomemakeover]
 				scuttler = true
+				helmit_crab = true
 				tumbleweed = true
+
+			[light_sources.settings.entities.amethyst_core]
+				missile_entity = true
+
+			[light_sources.settings.entities.galosphere]
+				sparkle = true
 

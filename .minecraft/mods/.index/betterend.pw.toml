@@ -1,0 +1,13 @@
+filename = 'better-end-4.0.10.jar'
+name = 'BetterEnd'
+side = 'both'
+
+[download]
+hash = '98773d700d35dd9ad5ca89a2de661f62ff4d3e9b126b751de0aa4cdf0256d166eab746bb87edc0e2b2fac03e7eb77eade7b6890792a7d2a8dda6a475566299a7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gc8OEnCC/versions/otd2erfL/better-end-4.0.10.jar'
+
+[update.modrinth]
+mod-id = 'gc8OEnCC'
+version = 'otd2erfL'

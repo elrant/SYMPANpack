@@ -1,0 +1,13 @@
+filename = 'dark-console-1.0.0.jar'
+name = 'Dark server console'
+side = 'server'
+
+[download]
+hash = '6ba1dfaca5de70c068f82ba288735124dc529867faca2f55c08a64e49229aaa347532302dcff8e8d34bfb6ad1a4f5a7d6fc3f41aa9fc7db2d2a4bf6d8db22a25'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dn7JkZqB/versions/erQ26Ez4/dark-console-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'dn7JkZqB'
+version = 'erQ26Ez4'

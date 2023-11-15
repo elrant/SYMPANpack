@@ -1,0 +1,13 @@
+filename = 'BetterTotemOfUndying-Fabric-1.20.1-1.20.1-1.1.0.jar'
+name = 'Better Totem of Undying'
+side = 'both'
+
+[download]
+hash = '66cc8b2f091ed388d6b16268573404bdb77d14e09c990cf4be5c9d62848a3f61405262476e1d4d9309ca92181832cacc1b0d39a3847c84c2f2f288d48324dd9f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qRwFcI3W/versions/svktoDkr/BetterTotemOfUndying-Fabric-1.20.1-1.20.1-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'qRwFcI3W'
+version = 'svktoDkr'

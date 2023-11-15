@@ -1,0 +1,13 @@
+filename = 'imst-2.1.0.jar'
+name = 'Immersive structures'
+side = 'both'
+
+[download]
+hash = 'c5dc394d4bce5561490826c849735a1f685ebd810f2483e97f0d2dc0941b01da62e0d0644a87abda6fa425a318d184fdb4ce8c700bfc982323177f8f59757ae2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CVBAErky/versions/C1fCIQSh/imst-2.1.0.jar'
+
+[update.modrinth]
+mod-id = 'CVBAErky'
+version = 'C1fCIQSh'

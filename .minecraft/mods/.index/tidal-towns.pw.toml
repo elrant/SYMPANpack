@@ -1,0 +1,13 @@
+filename = 'tidal-towns-1.2.jar'
+name = 'Tidal Towns'
+side = 'both'
+
+[download]
+hash = '7af7784859945293504202468eaa3ead3c89edc1bf09ad07d29438e3042773980a18e41cc8a6b9b60353354a891444cf0b1f644fe96f7b73f9f09116847ee4d7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EEIwvQVo/versions/9rGNfR18/tidal-towns-1.2.jar'
+
+[update.modrinth]
+mod-id = 'EEIwvQVo'
+version = '9rGNfR18'

@@ -1,0 +1,13 @@
+filename = 'wicked-paintings-1.4.0+1.20.1.jar'
+name = 'Wicked Paintings'
+side = 'both'
+
+[download]
+hash = '08ff1b5e65c930718cb14f8036d9369935e2cb9df5d913de696e60478070ca915ce04c556e194a0d6264415ee18f63b705f2bf3090bfe59dda1b1dbb46ea9f0d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AooPgPdp/versions/iGtzIvKU/wicked-paintings-1.4.0%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'AooPgPdp'
+version = 'iGtzIvKU'

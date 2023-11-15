@@ -1,0 +1,13 @@
+filename = 'betterz-1.0.jar'
+name = 'BetterZ'
+side = 'both'
+
+[download]
+hash = '0f5441a929ed2768da6652c736b5e6c3fc5a8b01e5f948ef760f7e5626486c078e6313e20d50996cdf77b81b6672b5de06f1ea880cb1df6faa7ed3c4ffa0a339'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LOy78UQh/versions/49wfNpDV/betterz-1.0.jar'
+
+[update.modrinth]
+mod-id = 'LOy78UQh'
+version = '49wfNpDV'

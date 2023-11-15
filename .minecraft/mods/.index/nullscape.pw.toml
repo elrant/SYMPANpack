@@ -1,0 +1,13 @@
+filename = 'Nullscape_1.20.2_v1.2.3.jar'
+name = 'Nullscape'
+side = 'both'
+
+[download]
+hash = '62359d5d286128509a652cb47f55ba4bbb68d0c3618d51077a928828811e74fafddf263fae18ae66e26f4c670fcfc97238a5077a34ae8b7e1a2f0b31db785639'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LPjGiSO4/versions/w4mEZnbU/Nullscape_1.20.2_v1.2.3.jar'
+
+[update.modrinth]
+mod-id = 'LPjGiSO4'
+version = 'w4mEZnbU'

@@ -1,0 +1,13 @@
+filename = 'health-levels-1.0.6.jar'
+name = 'Health Levels'
+side = 'both'
+
+[download]
+hash = '92f9e81f29882ebe303563d313c5203f982e0c675426a85879ade3e1a51f5ebb9d0f139cff0bd9ae1e9f720149eebbdd37f6d9b95a9fac5639e084da9e3b62ce'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TDGQvsXp/versions/Xzuv2Evw/health-levels-1.0.6.jar'
+
+[update.modrinth]
+mod-id = 'TDGQvsXp'
+version = 'Xzuv2Evw'

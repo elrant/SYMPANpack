@@ -1,0 +1,13 @@
+filename = 'collective-1.20.1-7.7.jar'
+name = 'Collective'
+side = 'both'
+
+[download]
+hash = '58ca1d73c4ec67f5f9f22c3edbf20e266b54c1194afb0bb34b7876df6a776de3fe51773dc40acafb929c7ae152aa5c1c6d76c0544182228a496d7ad6c06f085c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/e0M1UDsY/versions/xR4GpQQO/collective-1.20.1-7.7.jar'
+
+[update.modrinth]
+mod-id = 'e0M1UDsY'
+version = 'xR4GpQQO'

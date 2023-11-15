@@ -1,0 +1,13 @@
+filename = 'Towns-and-Towers-1.11.1-Fabric+Forge.jar'
+name = 'Towns and Towers'
+side = 'both'
+
+[download]
+hash = '132c9060f06577f120cbd36c01d664bb7fe0763a8f0618d33954b710f40936803aa211d19f0a5827b8134078dc8c1c011bd45ef3721f350507bba84edc16e564'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DjLobEOy/versions/avrYXbs7/Towns-and-Towers-1.11.1-Fabric%2BForge.jar'
+
+[update.modrinth]
+mod-id = 'DjLobEOy'
+version = 'avrYXbs7'

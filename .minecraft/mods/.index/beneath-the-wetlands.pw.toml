@@ -1,0 +1,13 @@
+filename = 'wetlands-1.1.9-1.20.1.jar'
+name = 'Beneath the Wetlands'
+side = 'both'
+
+[download]
+hash = '2218ff5ffa48434aa37be936959e753721b1f346034c1d54b2c00f0e4759e401961520b84bff090db3837dab7dd955f0506b938739ad40ceb6feadd07896f5b8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QjzFB2iK/versions/jMFHrv8g/wetlands-1.1.9-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'QjzFB2iK'
+version = 'jMFHrv8g'

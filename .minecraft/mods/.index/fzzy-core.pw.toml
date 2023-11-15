@@ -1,0 +1,13 @@
+filename = 'fzzy_core-0.3.1+1.20.1.jar'
+name = 'Fzzy Core'
+side = 'both'
+
+[download]
+hash = '720d1641393ca3fa0af33900df40516c910c0d134d914a442a78d25bcc0a4bcf3feb645e6804fb290b4c0cc7542efde12c7568255f583b277334a1324599d354'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LJ5wlCDr/versions/FAARzWkk/fzzy_core-0.3.1%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'LJ5wlCDr'
+version = 'FAARzWkk'

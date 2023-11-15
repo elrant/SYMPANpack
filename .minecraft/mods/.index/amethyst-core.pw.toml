@@ -1,0 +1,13 @@
+filename = 'amethyst_core-1.4.3+1.20.1.jar'
+name = 'Amethyst Core'
+side = 'both'
+
+[download]
+hash = 'f1f2a1cdb8cb84b88573e2c830a928e1b45b9bf61bb6c4b0a2436d35fbc0756b19776688a04cc857a5f2281442bf97af2882cf1373cbd0225a9c542db740a9e5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UbOpZw7q/versions/vsVzkKGk/amethyst_core-1.4.3%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'UbOpZw7q'
+version = 'vsVzkKGk'

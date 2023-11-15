@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "strafingRollFactor": 0.5,
+  "strafingRollFactor": 0.25,
   "strafingRollFactorWhenFlying": -0.5,
   "strafingRollFactorWhenSwimming": -0.5,
   "yawDeltaRollFactor": 0.0,
