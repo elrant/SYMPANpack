@@ -1,0 +1,14 @@
+name = "Chat Sounds"
+filename = "chatsounds-1.1.9.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/GO9EQa8a/versions/YJmiSG0U/chatsounds-1.1.9.jar"
+hash-format = "sha512"
+hash = "3c4227bbb2035b715a1368029eed6b1f11a5bcd12ccc96f348c27a417ad833ab81c8dabe265302846b753e043915bdac2d13c30921931cd21432d690226f1a7a"
+
+[update]
+[update.modrinth]
+mod-id = "GO9EQa8a"
+version = "YJmiSG0U"

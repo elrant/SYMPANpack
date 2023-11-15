@@ -1,10 +1,9 @@
 {
   "debugMode": false,
-  "ignoreUpdates": false,
   "promiscuous": false,
   "clearAllOnKey": false,
-  "cuboidGridColor": "#CC4C4CCC",
-  "cuboidEdgeColor": "#CC3333CC",
+  "cuboidGridColor": "#CC3333CC",
+  "cuboidEdgeColor": "#CC4C4CCC",
   "cuboidFirstPointColor": "#33CC33CC",
   "cuboidSecondPointColor": "#3333CCCC",
   "polyGridColor": "#CC3333CC",

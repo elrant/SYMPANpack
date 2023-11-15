@@ -1,0 +1,13 @@
+filename = 'Jump-Sounds-1.4.3.jar'
+name = 'Jump Sounds'
+side = 'both'
+
+[download]
+hash = '96f2a264b23598964b3a93cf1f565dde048dc0e555db9e513d7bae84091b9cf6ee3306e20b9853cd037838b408a8d17681be36e782f9d68c97ac12cdb99f9444'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LYzABNNQ/versions/duCEpbpP/Jump-Sounds-1.4.3.jar'
+
+[update.modrinth]
+mod-id = 'LYzABNNQ'
+version = 'duCEpbpP'

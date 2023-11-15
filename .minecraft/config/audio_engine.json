@@ -27,5 +27,7 @@
     "music",
     "master"
   ],
-  "maxDuplicatedSounds": 5
+  "mutedSounds": [],
+  "maxDuplicatedSoundsByPos": 5,
+  "maxDuplicatedSoundsById": 50
 }

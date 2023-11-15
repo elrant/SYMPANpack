@@ -1,0 +1,14 @@
+name = "ShutUpMojang"
+filename = "ShutUpMojang-1.4.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/gbR6LJxg/versions/4XFX2e3f/ShutUpMojang-1.4.1.jar"
+hash-format = "sha512"
+hash = "2ec66acf4df1b0693473456d794b8821aad39f33507c171e2cf34a8a9a1e8be3f4d693dfdf10f89837a8ce6fbf7901d06e28edde2453df09145c87786c95eb8e"
+
+[update]
+[update.modrinth]
+mod-id = "gbR6LJxg"
+version = "4XFX2e3f"

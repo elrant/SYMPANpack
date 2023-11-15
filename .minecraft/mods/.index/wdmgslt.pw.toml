@@ -1,0 +1,14 @@
+name = "Why Does My Glass Sound Like That"
+filename = "whydoesmyglasssoundlikethat-1.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/59WpRx9h/versions/OZ5fyupH/whydoesmyglasssoundlikethat-1.1.0.jar"
+hash-format = "sha512"
+hash = "b94d57fd2a1c73c9559ef92d9fb1c17790f34fce4c1a1116d530be8c584ff6f7e3cb70ce40e2ba94ab5d01e2ea67df45703830eca44d55699c17ae7f501d81d5"
+
+[update]
+[update.modrinth]
+mod-id = "59WpRx9h"
+version = "OZ5fyupH"

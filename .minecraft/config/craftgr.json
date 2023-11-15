@@ -1,0 +1,14 @@
+{
+	"overlayVisibility": "CHAT",
+	"overlayPosition": "TOP_LEFT",
+	"hideAlbumArt": false,
+	"openAlbum": true,
+	"overlayBgColor": 6496889,
+	"overlayBarColor": 10524334,
+	"overlayScale": 1.0,
+	"url": {
+		"streamURL": "https://stream.gensokyoradio.net/1/",
+		"infoJsonURL": "https://gensokyoradio.net/api/station/playing/",
+		"albumArtURL": "https://gensokyoradio.net/images/albums/500/"
+	}
+}

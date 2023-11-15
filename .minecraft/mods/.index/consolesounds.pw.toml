@@ -1,0 +1,14 @@
+name = "Console Sounds"
+filename = "consolesounds-1.1.7.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/T9jPYVri/versions/XIaNPinE/consolesounds-1.1.7.jar"
+hash-format = "sha512"
+hash = "efe03fe8eaeb8276d8244eb6a3c6004d2bb76f64d7964b5bc98adce05f8bc237d8efe4a38d03d92ff245c29e4f6044d969b795ab6264d33a58968c15300faccf"
+
+[update]
+[update.modrinth]
+mod-id = "T9jPYVri"
+version = "XIaNPinE"

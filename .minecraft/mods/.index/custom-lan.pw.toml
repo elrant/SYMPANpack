@@ -1,0 +1,14 @@
+name = "Custom LAN"
+filename = "custom-lan-1.20-1.20.1-v2.2.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/OCvCFPNR/versions/TvEi8wC6/custom-lan-1.20-1.20.1-v2.2.3.jar"
+hash-format = "sha512"
+hash = "69b9943a79766fe33c7ad72d84e8522c5419f19cc6aa0e06930645b24dac5d27924ec9bf535d2eb3aba0af185b12659a6f8e1e88c85af8b1b6671263fbd11c30"
+
+[update]
+[update.modrinth]
+mod-id = "OCvCFPNR"
+version = "TvEi8wC6"

@@ -1,0 +1,13 @@
+filename = 'ArmorStatues-v8.0.3-1.20.1-Fabric.jar'
+name = 'Armor Statues'
+side = 'both'
+
+[download]
+hash = 'd7295f591de6c82e063b9df6628aacf19578db9d81f4b64c1ab568c4d0fe0fc2ab7eadc48ec2390b9e81c87ac3ded8955fb1f1cf6cc59e07e94fb469b48112d2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bbGCtEvb/versions/kexyNnBb/ArmorStatues-v8.0.3-1.20.1-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'bbGCtEvb'
+version = 'kexyNnBb'

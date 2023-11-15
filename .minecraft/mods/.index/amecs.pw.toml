@@ -1,14 +1,14 @@
 name = "Amecs"
-filename = "amecs-1.3.9+mc.1.20.1.jar"
+filename = "amecs-1.3.10+mc.1.20.1.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
-hash-format = "sha1"
-hash = "9c6b9f99c12cb1209f39cf83dabe05b9f4cbdd24"
+mode = "url"
+url = "https://cdn.modrinth.com/data/rcLriA4v/versions/HuXAp0GB/amecs-1.3.10%2Bmc.1.20.1.jar"
+hash-format = "sha512"
+hash = "f75b6953825e0d59a5c205fc686e82ea67fa76bdbd79b39a9ab2d948a090503c6638de7be252b7d070114521a0e995cdf0964da417dfdf72af07b7fcd5f4643f"
 
 [update]
-[update.curseforge]
-file-id = 4679250
-project-id = 324564
+[update.modrinth]
+mod-id = "rcLriA4v"
+version = "HuXAp0GB"

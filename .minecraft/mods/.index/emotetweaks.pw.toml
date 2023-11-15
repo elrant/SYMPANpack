@@ -1,0 +1,13 @@
+filename = 'EmoteTweaks-4.0.2.27-fabric.jar'
+name = 'EmoteTweaks'
+side = 'both'
+
+[download]
+hash = '9fdff640cd04487de7253b2fa513bf0a8c44d0621e0c3a214537349bdc0025cb9a301bde4970e3fd83e42ee70061b7f3642d7205b78c659344650b1bbddbd106'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QfXPAsap/versions/9ng2BEl2/EmoteTweaks-4.0.2.27-fabric.jar'
+
+[update.modrinth]
+mod-id = 'QfXPAsap'
+version = '9ng2BEl2'

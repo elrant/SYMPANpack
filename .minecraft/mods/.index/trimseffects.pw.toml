@@ -1,0 +1,13 @@
+filename = 'trimeffects-1.0.1-fabric.jar'
+name = 'TrimsEffects'
+side = 'both'
+
+[download]
+hash = '207a747e2b8dc20ca8a98b861befe5b313eb70804f9787940ef2f545e1b953657b06355ce217962f3d0e7b6ef4fd19850003a43a3f0dffdcfcaf51354eb7db9e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BL7ADJ7w/versions/R5kXklyh/trimeffects-1.0.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'BL7ADJ7w'
+version = 'R5kXklyh'

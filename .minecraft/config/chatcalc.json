@@ -1,0 +1,9 @@
+{
+    "decimal_format": "#,##0.##",
+    "radians": "false",
+    "debug_tokens": "false",
+    "log_exceptions": "false",
+    "copy_type": "none",
+    "calculate_last": "true",
+    "functions": []
+}

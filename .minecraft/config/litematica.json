@@ -64,10 +64,10 @@
     "commandNameSetblock": "setblock",
     "commandNameSummon": "summon",
     "commandTaskInterval": 1,
-    "customSchematicBaseDirectory": "/home/nyaambxr/.local/share/PrismLauncher/instances/SYMPAN pack 17/.minecraft/schematics",
+    "customSchematicBaseDirectory": "C:\\Users\\jaker\\AppData\\Roaming\\PolyMC\\instances\\Yoru FOSS\\.minecraft\\schematics",
     "easyPlaceSwapInterval": 0,
     "pickBlockableSlots": "1,2,3,4,5",
-    "toolItem": "minecraft:stick"
+    "toolItem": "minecraft:debug_stick"
   },
   "Hotkeys": {
     "addSelectionBox": {
@@ -86,7 +86,7 @@
       "keys": ""
     },
     "executeOperation": {
-      "keys": ""
+      "keys": "BUTTON_5"
     },
     "invertGhostBlockRenderState": {
       "keys": ""
@@ -125,7 +125,7 @@
       "keys": ""
     },
     "openGuiMainMenu": {
-      "keys": "M"
+      "keys": "L"
     },
     "openGuiMaterialList": {
       "keys": "M,L"
@@ -230,7 +230,7 @@
       "keys": ""
     },
     "toggleAllRendering": {
-      "keys": "M,R"
+      "keys": "L,R"
     },
     "toggleAreaSelectionBoxesRendering": {
       "keys": ""
@@ -287,9 +287,6 @@
       "keys": "LEFT_SHIFT"
     },
     "unloadCurrentSchematic": {
-      "keys": ""
-    },
-    "schematicEditReplaceSelection": {
       "keys": ""
     }
   },

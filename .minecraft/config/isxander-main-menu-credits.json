@@ -1,16 +1,16 @@
 {
   "main_menu": {
-    "top_left": ["SYMPANpack","23.02"],
+    "top_left": ["SYMPANpack","23H2"],
     "top_right": [],
     "bottom_left": [],
-    "bottom_right": ["Made with love by: irisnk"],
+    "bottom_right": ["Made for Season VII"],
     "mod_blacklist": []
   },
   "pause_menu": {
-    "top_left": ["SYMPANpack","23.02"],
+    "top_left": ["SYMPANpack","23H2"],
     "top_right": [],
     "bottom_left": [],
-    "bottom_right": ["Made with love by: irisnk"],
+    "bottom_right": ["Made for Season VII"],
     "mod_blacklist": []
   }
 }

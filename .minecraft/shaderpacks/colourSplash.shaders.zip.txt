@@ -1,3 +1,0 @@
-#Fri Jul 28 15:47:10 CEST 2023
-goalHue=80
-BLACKEN=false

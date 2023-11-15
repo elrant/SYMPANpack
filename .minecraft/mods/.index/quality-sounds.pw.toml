@@ -1,0 +1,14 @@
+name = "Quality Sounds"
+filename = "qualitysounds-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ZAfRfkTo/versions/b3TuZLve/qualitysounds-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "6d72993e1c166c58b2133f68291365f61c9ba5da8c252d025e349b2cb950792d8fac26d0faf4d7d9e9bf019991b88427b91b1b40b6b88798764aa2860e2deb6f"
+
+[update]
+[update.modrinth]
+mod-id = "ZAfRfkTo"
+version = "b3TuZLve"

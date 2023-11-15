@@ -1,0 +1,13 @@
+filename = 'compressed-blocks-1.12.jar'
+name = 'Better Compressed Blocks'
+side = 'both'
+
+[download]
+hash = '0edfc91f92504b5e4a0dbc58b2e0e7180905514ac3e8b8b37bae6f75e6f2ed60db8bfdfe7bfe284e7cedd467d198d27ef97856a718ccf4bd47a16c227d0a257c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LIv30E74/versions/5xogQHec/compressed-blocks-1.12.jar'
+
+[update.modrinth]
+mod-id = 'LIv30E74'
+version = '5xogQHec'

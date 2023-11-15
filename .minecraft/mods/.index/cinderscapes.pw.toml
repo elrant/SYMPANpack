@@ -1,14 +1,13 @@
-name = "Cinderscapes"
-filename = "cinderscapes-4.0.8.jar"
-side = "both"
+filename = 'cinderscapes-4.0.9.jar'
+name = 'Cinderscapes'
+side = 'both'
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/QC4wcUXZ/versions/HCDPkEm0/cinderscapes-4.0.8.jar"
-hash-format = "sha512"
-hash = "7479d9fa1a18d2a99e1c7b4f1425223a15e979e5112a9a575e613b2eb18e93d67e1c831649217adf180edb2aa758f83cb26547424263a3a373042b56470499cd"
+hash = 'a65f2b77c7ce3aec3bc91e1f1e64ba5c9e002adf321932c2067ef87223e696697bd47b9fa47d450346cbf3ed4eaf44f20a17f0cdc32854d6d3f8e6db08f6f06e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QC4wcUXZ/versions/2mBOodyG/cinderscapes-4.0.9.jar'
 
-[update]
 [update.modrinth]
-mod-id = "QC4wcUXZ"
-version = "HCDPkEm0"
+mod-id = 'QC4wcUXZ'
+version = '2mBOodyG'

@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "speedometerPosition": "OFF",
+  "trimpMultiplier": 1.4,
+  "hardCapThreshold": 2.0,
+  "softCapThreshold": 1.4,
+  "softCapDegen": 0.65,
+  "sharkingEnabled": true,
+  "sharkingSurfaceTension": 0.2,
+  "sharkingWaterFriction": 0.99,
+  "groundAccelerate": 10.0,
+  "airAccelerate": 14.0,
+  "uncappedBunnyhopEnabled": true,
+  "trimpEnabled": true,
+  "fallDistanceThresholdIncrease": 0.0,
+  "maxAirAccelerationPerTick": 0.045
+}

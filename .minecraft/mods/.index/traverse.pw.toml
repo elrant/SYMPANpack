@@ -1,14 +1,13 @@
-name = "Traverse"
-filename = "traverse-7.0.9.jar"
-side = "both"
+filename = 'traverse-7.0.10.jar'
+name = 'Traverse'
+side = 'both'
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/kXygSBVI/versions/4wmGRth9/traverse-7.0.9.jar"
-hash-format = "sha512"
-hash = "75972b2d844a5e2f71472167f95edd59f83493df2fd34b75f51a1bc67a1f98b9ab9471b787d67978c766af779ead6ae7efe1b2a709ffe9272d6e767e4a2077d1"
+hash = '89d941faf863a34c34c45024a9480346f74bbde751bd04a35fc2473c1a988f05a90fabf97a0f45c8b337308da20a2ffdaf30f2911d0c9f7f07f88119127fba0b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kXygSBVI/versions/9o4IEnHZ/traverse-7.0.10.jar'
 
-[update]
 [update.modrinth]
-mod-id = "kXygSBVI"
-version = "4wmGRth9"
+mod-id = 'kXygSBVI'
+version = '9o4IEnHZ'
